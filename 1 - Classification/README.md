@@ -59,5 +59,11 @@ Classification is simply grouping things together according to similar features 
 
     Logistic Regression, k-Nearest Neighbors, Decision Trees, Support Vector Machine, Naive Bayes/    
     Random Forest, Gradient Boosting/    
-    Multi-label Decision Trees, Multi-label Random Forests, Multi-label Gradient Boosting
+    Multi-label Decision Trees, Multi-label Random Forests, Multi-label Gradient Boosting/
+    Artificial Neural Networks
+    
+    
+**Conclusion**
+
+Classification, and its unsupervised learning counterpart, clustering, are central ideas behind many other techniques and topics in machine learning. Being able to classify and recognize certain kinds of data allows computer scientists to expand on knowledge and applications in other machine learning fields such as computer vision, natural language processing, deep learning, building predictive economic, market, and weather models, and more.
 
