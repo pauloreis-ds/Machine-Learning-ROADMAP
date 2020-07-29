@@ -16,7 +16,7 @@ Classification is simply grouping things together according to similar features 
 
 
 ## Types of Classification Tasks
-Binary classification ---> is it spam or not spam? cat or dog? buy or not (conversion prediction)?
+- Binary classification ---> is it spam or not spam? cat or dog? buy or not (conversion prediction)?
 
         It refers to tasks that have two class labels.
         ---
@@ -34,7 +34,7 @@ Binary classification ---> is it spam or not spam? cat or dog? buy or not (conve
 
 
 
-Multi-class classification ---> is the traffic light green, yellow or red?
+- Multi-class classification ---> is the traffic light green, yellow or red?
 
         It refers to those classification tasks that have more than two class labels.
         ---
@@ -43,20 +43,21 @@ Multi-class classification ---> is the traffic light green, yellow or red?
         Instead, examples are classified as belonging to one among a range of known classes.
 
 
-Multi-label classification ---> what items does this photo contains? what topic is this YouTube video about?
+- Multi-label classification ---> what items does this photo contains? what topic is this YouTube video about?
 
         It refers to those classification tasks that have two or more class labels, where one or more class labels may be predicted for each example.
+        ---
         
-        
-Imbalanced classification refers to classification tasks where the distribution of examples across the classes is not equal.
-
+        This is unlike binary classification and multi-class classification, where a single class label is predicted for each example.
+        It is common to model multi-label classification tasks with a model that predicts multiple outputs, 
+ 
 
 ## Evalutaion Metrics
 
 
 ## Algorithms
 
-    Logistic Regression, k-Nearest Neighbors, Decision Trees, Support Vector Machine, Naive Bayes, Random Forest, Gradient Boosting
+    Logistic Regression, k-Nearest Neighbors, Decision Trees, Support Vector Machine, Naive Bayes/    
+    Random Forest, Gradient Boosting/    
+    Multi-label Decision Trees, Multi-label Random Forests, Multi-label Gradient Boosting
 
-
-Case-based reasoning, Artificial Neural Networks
