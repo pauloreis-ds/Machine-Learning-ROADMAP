@@ -20,8 +20,7 @@ Classification is simply grouping things together according to similar features 
 
         It refers to tasks that have two class labels.
         ---
- 
- -----IMAGE----------SPAN----------IMAGE----------CAT OR DOG----------IMAGE-----
+
 <p float="left">
   <img src="images/0span.png" width="500" />
   <img src="images/1cat or dog.jpeg" width="500" /> 
@@ -46,7 +45,9 @@ Classification is simply grouping things together according to similar features 
         It refers to those classification tasks that have more than two class labels.
         ---
       
------IMAGE----------binary vs multi class----------IMAGE-----   
+<p float="center">
+  <img src="images/2binary vs muilti-class.png" width="500" />
+</p>
       
         Unlike binary classification, multi-class classification does not have the notion of normal and abnormal outcomes.
         Instead, examples are classified as belonging to one among a range of known classes.
@@ -56,16 +57,21 @@ Classification is simply grouping things together according to similar features 
 
         It refers to those classification tasks that have two or more class labels, where one or more class labels may be predicted for each example.
         ---
-       
------IMAGE----------multi label----------IMAGE-----       
+       WHATY
+<p float="left">
+  <img src="images/3multi label.png" width="500" />
+  <img src="images/4multi class vs label.png" width="500" />
+</p>
+
        
         This is unlike binary classification and multi-class classification, where a single class label is predicted for each example.
         It is common to model multi-label classification tasks with a model that predicts multiple outputs, 
 
 
 
------IMAGE----------last----------IMAGE-----
-
+<p float="center">
+  <img src="images/5classification types.jpg" width="500" />
+</p>
 
 ## Evalutaion Metrics
 
