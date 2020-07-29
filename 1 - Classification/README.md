@@ -22,6 +22,10 @@ Classification is simply grouping things together according to similar features 
         ---
  
  -----IMAGE----------SPAN----------IMAGE----------CAT OR DOG----------IMAGE-----
+<p float="left">
+  <img src="images/0span.png" width="100" />
+  <img src="images/1cat or dog.jpeg" width="100" /> 
+</p>
         
         
         Class labels are often string values, e.g. “spam,” “not spam,” and must be mapped to numeric values before being provided to an algorithm for modeling. 
