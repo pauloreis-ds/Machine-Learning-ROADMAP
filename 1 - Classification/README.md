@@ -81,7 +81,7 @@ Multi-label Decision Trees, Multi-label Random Forests, Multi-label Gradient Boo
 Artificial Neural Networks.
     
     
-##### Conclusion
+### Conclusion
 
 Classification, and its unsupervised learning counterpart, clustering, are central ideas behind many other techniques and topics in machine learning. Being able to classify and recognize certain kinds of data allows data scientists to expand on knowledge and applications in other machine learning fields such as computer vision, natural language processing, deep learning, building predictive economic, market, weather models, and more.
 
