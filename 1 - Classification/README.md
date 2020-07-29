@@ -15,10 +15,48 @@ Classification is simply grouping things together according to similar features 
     You could connect a computer to a camera that photographs each processor before it is shipped. The computer will run an algorithm that classifies the processor as damaged or not damaged. The training set you could use to teach this algorithm to determine which processors are damaged would be images of defective processors and images of functional processors.
 
 
-
 ## Types of Classification Tasks
+Binary classification ---> is it spam or not spam? cat or dog? buy or not (conversion prediction)?
 
+        It refers to tasks that have two class labels.
+        ---
+        
+        Class labels are often string values, e.g. “spam,” “not spam,” and must be mapped to numeric values before being provided to an algorithm for modeling. 
+        This is often referred to as label encoding, where a unique integer is assigned to each class label, e.g. “spam” = 0, “no spam” = 1.
+        
+        Typically, binary classification tasks involve one class that is the normal state and another class that is the abnormal state.
+
+        For example “not spam” is the normal state and “spam” is the abnormal state. 
+        Another example is “cancer not detected” is the normal state of a task that involves a medical test and “cancer detected” is the abnormal state.
+
+        The class for the normal state is assigned the class label 0 and the class with the abnormal state is assigned the class label 1.
+
+
+
+
+Multi-class classification ---> is the traffic light green, yellow or red?
+
+        It refers to those classification tasks that have more than two class labels.
+        ---
+        
+        Unlike binary classification, multi-class classification does not have the notion of normal and abnormal outcomes.
+        Instead, examples are classified as belonging to one among a range of known classes.
+
+
+Multi-label classification ---> what items does this photo contains? what topic is this YouTube video about?
+
+        It refers to those classification tasks that have two or more class labels, where one or more class labels may be predicted for each example.
+        
+        
+Imbalanced classification refers to classification tasks where the distribution of examples across the classes is not equal.
+
+
+## Evalutaion Metrics
 
 
 ## Algorithms
-k-nearest neighbor, Case-based reasoning, Decision Tree, Naive Bayes, Artificial Neural Networks
+
+    Logistic Regression, k-Nearest Neighbors, Decision Trees, Support Vector Machine, Naive Bayes, Random Forest, Gradient Boosting
+
+
+Case-based reasoning, Artificial Neural Networks
