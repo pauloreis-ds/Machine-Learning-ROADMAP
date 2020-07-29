@@ -1,10 +1,10 @@
 # Classification Problems
 
-"Classification is simply grouping things together according to similar features and attributes. When you go to a grocery store, you can accurately group the foods by food group (grains, fruit, vegetables, meat)". In machine learning, classification is all about teaching computers to do the same.
+> "Classification is simply grouping things together according to similar features and attributes. When you go to a grocery store, you can accurately group the foods by food group (grains, fruit, vegetables, meat)". In machine learning, classification is all about teaching computers to do the same.
 
-"**Classification is the process of predicting the class of given data points**. Classes are sometimes called as targets/ labels or categories."
+> "**Classification is the process of predicting the class of given data points**. Classes are sometimes called as targets/ labels or categories."
 
-"Classification is the process where computers group data together based on predetermined characteristics (supervised learning - where the targets are provided with the input data). There is an unsupervised version of classification, called clustering where computers find shared characteristics by which to group data when categories (target) are not specified.
+> "Classification is the process where computers group data together based on predetermined characteristics (supervised learning - where the targets are provided with the input data). There is an unsupervised version of classification, called clustering where computers find shared characteristics by which to group data when categories (target) are not specified.
 
         Let’s say you are trying to write a machine learning program that will be able to detect cancerous tumors in lungs. 
     It takes in images of lung x-rays as input and determines if there is a tumor. 
@@ -71,7 +71,7 @@
     This is unlike binary classification and multi-class classification, where a single class label is predicted for each example.
     It is common to model multi-label classification tasks with a model that predicts multiple outputs. 
 
-
+Basically:
 <p align="center">
   <img src="images/5classification types.jpg" width="500" />
 </p>
@@ -80,13 +80,13 @@
 
 
 ## Algorithms
-Logistic Regression, k-Nearest Neighbors, Decision Trees, Support Vector Machine, Naive Bayes<br>    
-Random Forest, Gradient Boosting<br>
-Multi-label Decision Trees, Multi-label Random Forests, Multi-label Gradient Boosting<br>
-Artificial Neural Networks
+Logistic Regression, k-Nearest Neighbors, Decision Trees, Support Vector Machine, Naive Bayes.<br>
+Random Forest, Gradient Boosting.<br>
+Multi-label Decision Trees, Multi-label Random Forests, Multi-label Gradient Boosting.<br>
+Artificial Neural Networks.
     
     
-**Conclusion**
+##### Conclusion
 
 Classification, and its unsupervised learning counterpart, clustering, are central ideas behind many other techniques and topics in machine learning. Being able to classify and recognize certain kinds of data allows data scientists to expand on knowledge and applications in other machine learning fields such as computer vision, natural language processing, deep learning, building predictive economic, market, weather models, and more.
 
