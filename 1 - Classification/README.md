@@ -1,25 +1,18 @@
 # Classification Problems
 
-> "Classification is simply grouping things together according to similar features and attributes. When you go to a grocery store, you can accurately group the foods by food group (grains, fruit, vegetables, meat)". In machine learning, classification is all about teaching computers to do the same.
+- "Classification is simply grouping things together according to similar features and attributes. When you go to a grocery store, you can accurately group the foods by food group (grains, fruit, vegetables, meat)". In machine learning, classification is all about teaching computers to do the same.
 
-> "**Classification is the process of predicting the class of given data points**. Classes are sometimes called as targets/ labels or categories."
+- "**Classification is the process of predicting the class of given data points**. Classes are sometimes called as targets/ labels or categories."
 
-> "Classification is the process where computers group data together based on predetermined characteristics (supervised learning - where the targets are provided with the input data). There is an unsupervised version of classification, called clustering where computers find shared characteristics by which to group data when categories (target) are not specified.
+- "Classification is the process where computers group data together based on predetermined characteristics (supervised learning - where the targets are provided with the input data). There is an unsupervised version of classification, called clustering where computers find shared characteristics by which to group data when categories (target) are not specified.
 
-        Let’s say you are trying to write a machine learning program that will be able to detect cancerous tumors in lungs. 
-    It takes in images of lung x-rays as input and determines if there is a tumor. 
-    If there is a tumor, we’d like the computer to output “yes” and if there is not a tumor, we’d like the computer to output “no”.
-    We’d like the computer to output the correct answer as much as possible.
-    Say the training set for this algorithm consists of several images of x-rays, half of the images contain tumors and are 
-    labelled “yes” and the other half do not contain tumors and are labelled “no” If the algorithm learns how to identify tumors 
-    with high accuracy, you can see why this might be a useful tool in a medical setting — a computer could save doctors time by
-    analyzing x-ray images quickly.
-    -------------------------------------------------------------------------------------------------------------------------------
-        Now, let's say you work in a computer processor factory. As the processors are being prepared to be packaged and shipped,
-    you must conduct a quality check to make sure that none of the processors are damaged. 
-        You could connect a computer to a camera that photographs each processor before it is shipped. The computer will run an
-    algorithm that classifies the processor as "damaged" or "not damaged". The training set you could use to teach this algorithm
-    to determine which processors are damaged would be images of defective processors and images of functional processors.
+> Let’s say you are trying to write a machine learning program that will be able to detect cancerous tumors in lungs. It takes in images of lung x-rays as input and determines if there is a tumor. 
+If there is a tumor, we’d like the computer to output “yes” and if there is not a tumor, we’d like the computer to output “no”.
+We’d like the computer to output the correct answer as much as possible.
+Say the training set for this algorithm consists of several images of x-rays, half of the images contain tumors and are labelled “yes” and the other half do not contain tumors and are labelled “no” If the algorithm learns how to identify tumors with high accuracy, you can see why this might be a useful tool in a medical setting — a computer could save doctors time by analyzing x-ray images quickly.
+    
+> Now, let's say you work in a computer processor factory. As the processors are being prepared to be packaged and shipped, you must conduct a quality check to make sure that none of the processors are damaged. 
+You could connect a computer to a camera that photographs each processor before it is shipped. The computer will run an algorithm that classifies the processor as "damaged" or "not damaged". The training set you could use to teach this algorithm to determine which processors are damaged would be images of defective processors and images of functional processors.
 
 
 ## Types of Classification Tasks
