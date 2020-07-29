@@ -16,10 +16,8 @@ Classification is simply grouping things together according to similar features 
 
 
 ## Types of Classification Tasks
-- Binary classification ---> is it spam or not spam? cat or dog? buy or not (conversion prediction)?
-
-        It refers to tasks that have two class labels.
-        ---
+- Binary classification ---> is it spam or not spam? cat or dog? buy or not (conversion prediction)?<br>
+**It refers to tasks that have two class labels.**
 
 <p float="left">
   <img src="images/0span.png" width="500" />
@@ -38,13 +36,9 @@ Classification is simply grouping things together according to similar features 
         The class for the normal state is assigned the class label 0 and the class with the abnormal state is assigned the class label 1.
 
 
-
-
-- Multi-class classification ---> is the traffic light green, yellow or red?
-
-        It refers to those classification tasks that have more than two class labels.
-        ---
-      
+- Multi-class classification ---> is the traffic light green, yellow or red?<br>
+**It refers to those classification tasks that have more than two class labels.**
+     
 <p align="center">
   <img src="images/2binary vs muilti-class.png" width="500" />
 </p>
@@ -53,11 +47,9 @@ Classification is simply grouping things together according to similar features 
         Instead, examples are classified as belonging to one among a range of known classes.
 
 
-- Multi-label classification ---> what items does this photo contains? what topic is this YouTube video about?
-
-        It refers to those classification tasks that have two or more class labels, where one or more class labels may be predicted for each example.
-        ---
-       WHATY
+- Multi-label classification ---> what items does this photo contains? what topic is this YouTube video about?<br>
+**It refers to those classification tasks that have two or more class labels, where one or more class labels may be predicted for each example.**
+        
 <p float="left">
   <img src="images/3multi label.png" width="500" />
   <img src="images/4multi class vs label.png" width="500" />
@@ -77,11 +69,10 @@ Classification is simply grouping things together according to similar features 
 
 
 ## Algorithms
-
-    Logistic Regression, k-Nearest Neighbors, Decision Trees, Support Vector Machine, Naive Bayes/    
-    Random Forest, Gradient Boosting/    
-    Multi-label Decision Trees, Multi-label Random Forests, Multi-label Gradient Boosting/
-    Artificial Neural Networks
+Logistic Regression, k-Nearest Neighbors, Decision Trees, Support Vector Machine, Naive Bayes<br>    
+Random Forest, Gradient Boosting<br>
+Multi-label Decision Trees, Multi-label Random Forests, Multi-label Gradient Boosting<br>
+Artificial Neural Networks
     
     
 **Conclusion**
