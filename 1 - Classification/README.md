@@ -45,7 +45,7 @@ Classification is simply grouping things together according to similar features 
         It refers to those classification tasks that have more than two class labels.
         ---
       
-<p>
+<p align="center">
   <img src="images/2binary vs muilti-class.png" width="500" />
 </p>
       
@@ -69,7 +69,7 @@ Classification is simply grouping things together according to similar features 
 
 
 
-<p>
+<p align="center">
   <img src="images/5classification types.jpg" width="500" />
 </p>
 
