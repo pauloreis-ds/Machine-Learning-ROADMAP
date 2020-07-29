@@ -4,9 +4,9 @@
  TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT<br>
 
 
-         EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
-         --------------------------------------------------------------------------------------------------------------------------------------------------------------
-         EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
+     EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
+     --------------------------------------------------------------------------------------------------------------------------------------------------------------
+     EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
 
 ## TOPIC
 - **PART 1** ---> ??????????<br>
@@ -19,9 +19,9 @@
 </p>
         
         
-         EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
-         --------------------------------------------------------------------------------------------------------------------------------------------------------------
-         EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
+     EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
+     --------------------------------------------------------------------------------------------------------------------------------------------------------------
+     EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
 
 
 - **PART 2** ---> ??????????<br>
@@ -31,9 +31,9 @@
   <img src="images/2binary vs muilti-class.png" width="500" />
 </p>
       
-         EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
-         --------------------------------------------------------------------------------------------------------------------------------------------------------------
-         EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
+     EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
+     --------------------------------------------------------------------------------------------------------------------------------------------------------------
+     EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
 
 
 - **PART 3** ---> ??????????<br>
@@ -46,9 +46,9 @@
 </p>
 
        
-         EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
-         --------------------------------------------------------------------------------------------------------------------------------------------------------------
-         EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
+     EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
+     --------------------------------------------------------------------------------------------------------------------------------------------------------------
+     EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
 
 
 <p align="center">
@@ -61,8 +61,8 @@
     
 **Conclusion**
 
-TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT<br> 
-TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT<br>
+TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT <br> 
+TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT <br>
 
 
 <img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">
