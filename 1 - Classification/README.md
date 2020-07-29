@@ -20,6 +20,9 @@ Classification is simply grouping things together according to similar features 
 
         It refers to tasks that have two class labels.
         ---
+ 
+ -----IMAGE----------SPAN----------IMAGE----------CAT OR DOG----------IMAGE-----
+        
         
         Class labels are often string values, e.g. “spam,” “not spam,” and must be mapped to numeric values before being provided to an algorithm for modeling. 
         This is often referred to as label encoding, where a unique integer is assigned to each class label, e.g. “spam” = 0, “no spam” = 1.
@@ -38,7 +41,9 @@ Classification is simply grouping things together according to similar features 
 
         It refers to those classification tasks that have more than two class labels.
         ---
-        
+      
+-----IMAGE----------binary vs multi class----------IMAGE-----   
+      
         Unlike binary classification, multi-class classification does not have the notion of normal and abnormal outcomes.
         Instead, examples are classified as belonging to one among a range of known classes.
 
@@ -47,10 +52,16 @@ Classification is simply grouping things together according to similar features 
 
         It refers to those classification tasks that have two or more class labels, where one or more class labels may be predicted for each example.
         ---
-        
+       
+-----IMAGE----------multi label----------IMAGE-----       
+       
         This is unlike binary classification and multi-class classification, where a single class label is predicted for each example.
         It is common to model multi-label classification tasks with a model that predicts multiple outputs, 
- 
+
+
+
+-----IMAGE----------last----------IMAGE-----
+
 
 ## Evalutaion Metrics
 
