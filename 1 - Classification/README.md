@@ -22,9 +22,9 @@ Classification is simply grouping things together according to similar features 
         ---
  
  -----IMAGE----------SPAN----------IMAGE----------CAT OR DOG----------IMAGE-----
-<p float="center">
-  <img src="images/0span.png" width="1000" />
-  <img src="images/1cat or dog.jpeg" width="1000" /> 
+<p float="left">
+  <img src="images/0span.png" width="500" />
+  <img src="images/1cat or dog.jpeg" width="500" /> 
 </p>
         
         
