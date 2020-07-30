@@ -145,11 +145,11 @@ There are more and as you may see it can get as [complicated](https://github.com
 
 
 <p align="center">
-  <img src="images/EELast.png" width="500" />
+  <img src="images/EELast.png" width="800" />
 </p>
 
 <p align="center">
-  <img src="images/FFLast2.jpeg" width="500" />
+  <img src="images/FFLast2.jpeg" width="600" />
 </p>
 
 
