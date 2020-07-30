@@ -118,15 +118,19 @@ It is extremely useful for measuring Recall, Precision, Specificity, Accuracy an
      - (TP+TN)/total = (100+50)/165 = 0.91 
   
   
+  - **Precision**: When it predicts yes, how often is it correct?
+    - TP/predicted yes = 100/110 = 0.91
+ 
+ 
+  - **Recall**: Ratio of True Positives. When it's actually yes, how often does it predict yes?
+    - TP/( TP+FN) = 100/(100+5) = 0.95
+      also known as "Sensitivity"
+ 
+ 
   - **Misclassification Rate**: Overall, how often is it wrong?
     - (FP+FN)/total = (10+5)/165 = 0.09
       equivalent to 1 minus Accuracy
       also known as "Error Rate" 
-  
-  
-  - **True Positive Rate**: When it's actually yes, how often does it predict yes?
-    - TP/actual yes = 100/105 = 0.95
-      also known as "Sensitivity" or "Recall"
   
   
   - **False Positive Rate**: When it's actually no, how often does it predict yes?
@@ -138,10 +142,6 @@ It is extremely useful for measuring Recall, Precision, Specificity, Accuracy an
       equivalent to 1 minus False Positive Rate
       also known as "Specificity"
   
-  
-  - **Precision**: When it predicts yes, how often is it correct?
-    - TP/predicted yes = 100/110 = 0.91
- 
  
   - **Prevalence**: How often does the yes condition actually occur in our sample?
     - actual yes/total = 105/165 = 0.64
@@ -165,8 +165,6 @@ There are more and as you may see it can get as [complicated](https://github.com
 
 ### **Accuracy**
 **Informally, accuracy is the fraction of predictions our model got right.** As you can see in the image above. [This explanation](https://developers.google.com/machine-learning/crash-course/classification/accuracy) is pretty good, so I'll just leave the link for you to explore.
-
-### **F1 Score (Precision/Recall)**
 
 
 ## Algorithms
