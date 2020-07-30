@@ -46,10 +46,11 @@ Classification vs Regression on a data set/ spreadsheet:
   <img src="images/5unsupervised.png" width="700" />
 </p>
 
+We don't know what groups or how many of them we are going to find.
 <p align="center">
   <img src="images/6unsupervised.png" width="700" />
 </p>
-
+Supervised (we have labels) vs Unsupervised learning (no labels)
 <p align="center">
   <img src="images/7supVsUnsup.png" width="700" />
 </p>
