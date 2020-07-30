@@ -141,8 +141,11 @@ It is extremely useful for measuring Recall, Precision, Specificity, Accuracy an
     - TN/actual no = 50/60 = 0.83<br>
       equivalent to 1 minus False Positive Rate<br>
       also known as "Specificity"
+
+
+[ROC Curve and AUC](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc)
   
- 
+  
   - _Prevalence_: How often does the yes condition actually occur in our sample?
     - actual yes/total = 105/165 = 0.64
     
