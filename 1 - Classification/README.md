@@ -101,9 +101,9 @@ It is extremely useful for measuring Recall, Precision, Specificity, Accuracy an
 >
 > **True Negatives (TN)**: We predicted no, and they don't have the disease.
 >
-> **False Positives (FP)**: We predicted yes, but they don't actually have the disease. (Also known as a "Type I error.")
+> **False Positives (FP)**: We predicted yes, but they don't actually have the disease. (Also known as a "Type I error")
 >
-> **False Negatives (FN)**: We predicted no, but they actually do have the disease. (Also known as a "Type II error.")
+> **False Negatives (FN)**: We predicted no, but they actually do have the disease. (Also known as a "Type II error")
 
 
 <p float="left">
@@ -166,7 +166,6 @@ There are more and as you may see it can get as [complicated](https://github.com
 - **Accuracy**
 
 **Informally, accuracy is the fraction of predictions our model got right.** As you can see in the image above. [This explanation](https://developers.google.com/machine-learning/crash-course/classification/accuracy) is pretty good, so I'll just leave the link for you to explore.
-
 
 
 ## Algorithms
