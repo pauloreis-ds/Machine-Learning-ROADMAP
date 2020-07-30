@@ -78,7 +78,7 @@ Confusion Matrix<br>
 Accuracy<br>
 F1 Score (Precision/Recall)<br>
 
-- **Confusion Matrix**
+### **Confusion Matrix**
 **It is a table that is often used to describe the performance of a classification model ("classifier") on a set of test data for which the true values are known. It is useful for seeing where a model is getting "confused"/ how often it predicts the right and wrong classes.**
 It is extremely useful for measuring Recall, Precision, Specificity, Accuracy and most importantly AUC-ROC Curve.
 
@@ -163,9 +163,10 @@ There are more and as you may see it can get as [complicated](https://github.com
 **y pred** --> Model's predictions<br>
 **output for threshold** --> Model's predictions "converted" to a language we understand (it could be 'Yes' or 'No', 'spam' or 'not spam'...)
 
-- **Accuracy**
-
+### **Accuracy**
 **Informally, accuracy is the fraction of predictions our model got right.** As you can see in the image above. [This explanation](https://developers.google.com/machine-learning/crash-course/classification/accuracy) is pretty good, so I'll just leave the link for you to explore.
+
+### **F1 Score (Precision/Recall)**
 
 
 ## Algorithms
