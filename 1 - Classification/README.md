@@ -87,7 +87,7 @@ It is extremely useful for measuring Recall, Precision, Specificity, Accuracy an
 
     - There are two possible predicted classes: "yes" and "no". If we were predicting the presence of a disease, for example, "yes" 
       would mean they have the disease, and "no" would mean they don't have the disease.
-    - The classifier made a total of 165 predictions (e.g., 165 patients were being tested for the presence of that disease).
+    - The classifier made a total of 165 predictions (165 patients were being tested for the presence of that disease).
     - Out of those 165 cases, the classifier predicted "yes" 110 times, and "no" 55 times.
     - In reality, 105 patients in the sample have the disease, and 60 patients do not.
 
@@ -115,11 +115,11 @@ It is extremely useful for measuring Recall, Precision, Specificity, Accuracy an
   
   
   - **PRECISION**: When it predicts yes, how often is it correct?
-    - TP/predicted yes = 100/110 = 0.91
+    - TP/predicted yes(FP+TP) = 100/110 = 0.91
  
  
   - **RECALL**: Ratio of True Positives. When it's actually yes, how often does it predict yes?
-    - TP/( TP+FN) = 100/(100+5) = 0.95
+    - TP/actual yes(TP+FN) = 100/(100+5) = 0.95
       also known as "Sensitivity"
  
  
