@@ -155,7 +155,7 @@ There are more and as you may see it can get as [complicated](https://github.com
 
 
 - **Accuracy**
-**Informally, accuracy is the fraction of predictions our model got right.** As you can see in one the image above. [This explanation](https://developers.google.com/machine-learning/crash-course/classification/accuracy) is pretty good, so I'll just leave the link for you to explore.
+**Informally, accuracy is the fraction of predictions our model got right.** As you can see in the image above. [This explanation](https://developers.google.com/machine-learning/crash-course/classification/accuracy) is pretty good, so I'll just leave the link for you to explore.
 
 
 
