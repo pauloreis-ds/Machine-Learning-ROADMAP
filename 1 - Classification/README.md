@@ -154,8 +154,8 @@ There are more and as you may see it can get as [complicated](https://github.com
 </p>
 
 
-**y** --> Actual values.
-**y pred** --> Model's predictions 
+**y** --> Actual values.<br>
+**y pred** --> Model's predictions<br>
 **output for threshold** --> Model's predictions "converted" to a language we understand (it could be 'Yes' or 'No', 'spam' or 'not spam'...)
 
 - **Accuracy**
