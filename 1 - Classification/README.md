@@ -145,7 +145,7 @@ There are more and as you may see it can get as [complicated](https://github.com
 
 
 <p align="center">
-  <img src="images/EELast.png" width="800" />
+  <img src="images/EELast.png" width="1000" />
 </p>
 
 <p align="center">
