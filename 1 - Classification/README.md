@@ -94,7 +94,8 @@ IMAGE ------ IMAGE ------IMAGE ------ IMAGE ------IMAGE ------ IMAGE ------IMAGE
 
 - This is a list of rates that are often computed from a confusion matrix for a binary classifier:
   - **Accuracy**: Overall, how often is the classifier correct?
-    - (TP+TN)/total = (100+50)/165 = 0.91
+                 (TP+TN)/total = (100+50)/165 = 0.91
+                 
   - **Misclassification Rate**: Overall, how often is it wrong?
     - (FP+FN)/total = (10+5)/165 = 0.09
       equivalent to 1 minus Accuracy
