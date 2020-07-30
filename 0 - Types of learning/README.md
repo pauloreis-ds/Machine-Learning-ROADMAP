@@ -9,19 +9,19 @@
 
 
 <p align="center">
-  <img src="images/0supervised.png" width="500" />
+  <img src="images/0supervised.png" width="700" />
 </p>
 
 <p align="center">
-  <img src="images/1supervised.png" width="500" />
+  <img src="images/1supervised.png" width="700" />
 </p>
 
 <p align="center">
-  <img src="images/2supervised.png" width="500" />
+  <img src="images/2supervised.png" width="700" />
 </p>
 
 <p align="center">
-  <img src="images/3supervised-data.png" width="500" />
+  <img src="images/3supervised-data.png" width="700" />
 </p>
 
 
@@ -38,19 +38,19 @@
 
 
 <p align="center">
-  <img src="images/4unsupervised.png" width="500" />
+  <img src="images/4unsupervised.png" width="700" />
 </p>
 
 <p align="center">
-  <img src="images/5unsupervised.png" width="500" />
+  <img src="images/5unsupervised.png" width="700" />
 </p>
 
 <p align="center">
-  <img src="images/6unsupervised.png" width="500" />
+  <img src="images/6unsupervised.png" width="700" />
 </p>
 
 <p align="center">
-  <img src="images/7supVsUnsup.png" width="500" />
+  <img src="images/7supVsUnsup.png" width="700" />
 </p>
 
 
@@ -65,7 +65,7 @@
 
 
 <p align="center">
-  <img src="images/8reinforcement.png" width="500" />
+  <img src="images/8reinforcement.png" width="700" />
 </p>
 
 
@@ -80,9 +80,9 @@
 
 
 <p align="center">
-  <img src="images/9transfer.jpg" width="500" />
+  <img src="images/9transfer.jpg" width="700" />
 </p>
 
 <p align="center">
-  <img src="images/10transfer.png" width="500" />
+  <img src="images/10transfer.png" width="700" />
 </p>
