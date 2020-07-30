@@ -78,8 +78,14 @@ Basically:
 
 - **Confusion Matrix**
 **It is a table that is often used to describe the performance of a classification model ("classifier") on a set of test data for which the true values are known. It is useful for seeing where a model is getting "confused"/ how often it predicts the right and wrong classes.**
+It is extremely useful for measuring Recall, Precision, Specificity, Accuracy and most importantly AUC-ROC Curve.
 
-IMAGE ------ IMAGE ------IMAGE ------ IMAGE ------IMAGE ------ IMAGE ------IMAGE ------ IMAGE ------IMAGE ------ IMAGE ------
+
+<p float="left">
+  <img src="images/AAconfusion_matrix_simple.png" width="500" />
+  <img src="images/BBconfusion_matrix.png" width="500" /> 
+</p>
+
 
     - There are two possible predicted classes: "yes" and "no". If we were predicting the presence of a disease, for example, "yes" 
       would mean they have the disease, and "no" would mean they don't have the disease.
@@ -94,7 +100,12 @@ IMAGE ------ IMAGE ------IMAGE ------ IMAGE ------IMAGE ------ IMAGE ------IMAGE
 > **False Positives (FP)**: We predicted yes, but they don't actually have the disease. (Also known as a "Type I error.")
 > **False Negatives (FN)**: We predicted no, but they actually do have the disease. (Also known as a "Type II error.")
 
-IMAGE ------ IMAGE ------IMAGE ------ IMAGE ------IMAGE ------ IMAGE ------IMAGE ------ IMAGE ------IMAGE ------ IMAGE ------
+
+<p float="left">
+  <img src="images/CCconfusion_matrix2.png" width="500" />
+  <img src="images/DDconfusion_matrix2.png" width="500" /> 
+</p>
+
 
 - This is a list of rates that are often computed from a confusion matrix for a binary classifier:<br>
   
@@ -130,7 +141,17 @@ IMAGE ------ IMAGE ------IMAGE ------ IMAGE ------IMAGE ------ IMAGE ------IMAGE
   - **Prevalence**: How often does the yes condition actually occur in our sample?
     - actual yes/total = 105/165 = 0.64
     
-There are more and as you may see it can get as [complicated](https://en.wikipedia.org/wiki/F1_score) as we want. For now, knowing those is a good way to start.
+There are more and as you may see it can get as [complicated](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/blob/master/1%20-%20Classification/images/ZZcomplicated.JPG) as we want. For now, knowing those is a good way to start.
+
+
+<p align="center">
+  <img src="images/EELast.png" width="500" />
+</p>
+
+<p align="center">
+  <img src="images/FFLast2.jpeg" width="500" />
+</p>
+
 
 ## Algorithms
 Logistic Regression, k-Nearest Neighbors, Decision Trees, Support Vector Machine, Naive Bayes.<br>
