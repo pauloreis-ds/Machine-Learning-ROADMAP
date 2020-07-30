@@ -92,27 +92,26 @@ IMAGE ------ IMAGE ------IMAGE ------ IMAGE ------IMAGE ------ IMAGE ------IMAGE
 
 IMAGE ------ IMAGE ------IMAGE ------ IMAGE ------IMAGE ------ IMAGE ------IMAGE ------ IMAGE ------IMAGE ------ IMAGE ------
 
-- This is a list of rates that are often computed from a confusion matrix for a binary classifier:
+- This is a list of rates that are often computed from a confusion matrix for a binary classifier:<br>
   - **Accuracy**: Overall, how often is the classifier correct?
-                 (TP+TN)/total = (100+50)/165 = 0.91
-                 
+     - (TP+TN)/total = (100+50)/165 = 0.91 <br>
   - **Misclassification Rate**: Overall, how often is it wrong?
     - (FP+FN)/total = (10+5)/165 = 0.09
       equivalent to 1 minus Accuracy
-      also known as "Error Rate"
+      also known as "Error Rate" <br>
   - **True Positive Rate**: When it's actually yes, how often does it predict yes?
     - TP/actual yes = 100/105 = 0.95
-      also known as "Sensitivity" or "Recall"
+      also known as "Sensitivity" or "Recall"<br>
   - **False Positive Rate**: When it's actually no, how often does it predict yes?
-    - FP/actual no = 10/60 = 0.17
+    - FP/actual no = 10/60 = 0.17<br>
   - **True Negative Rate**: When it's actually no, how often does it predict no?
     - TN/actual no = 50/60 = 0.83
       equivalent to 1 minus False Positive Rate
-      also known as "Specificity"
+      also known as "Specificity"<br>
   - **Precision**: When it predicts yes, how often is it correct?
-    - TP/predicted yes = 100/110 = 0.91
+    - TP/predicted yes = 100/110 = 0.91<br>
   - **Prevalence**: How often does the yes condition actually occur in our sample?
-    - actual yes/total = 105/165 = 0.64
+    - actual yes/total = 105/165 = 0.64<br>
 
 ## Algorithms
 Logistic Regression, k-Nearest Neighbors, Decision Trees, Support Vector Machine, Naive Bayes.<br>
