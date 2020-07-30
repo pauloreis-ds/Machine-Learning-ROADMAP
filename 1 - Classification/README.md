@@ -141,16 +141,22 @@ It is extremely useful for measuring Recall, Precision, Specificity, Accuracy an
   - **Prevalence**: How often does the yes condition actually occur in our sample?
     - actual yes/total = 105/165 = 0.64
     
-There are more and as you may see it can get as [complicated](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/blob/master/1%20-%20Classification/images/ZZcomplicated.JPG) as we want. For now, knowing those is a good way to start.
+There are more and as you may see it can get as [complicated](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/blob/master/1%20-%20Classification/images/ZZcomplicated.JPG) as we want. For now, knowing those is a good way to start. Last recall:
+
+
+<p align="center">
+  <img src="images/FFLast2.jpeg" width="600" />
+</p>
 
 
 <p align="center">
   <img src="images/EELast.png" width="1000" />
 </p>
 
-<p align="center">
-  <img src="images/FFLast2.jpeg" width="600" />
-</p>
+
+- **Accuracy**
+**Informally, accuracy is the fraction of predictions our model got right.** As you can see in one the image above. [This explanation](https://developers.google.com/machine-learning/crash-course/classification/accuracy) is pretty good, so I'll just leave the link for you to explore.
+
 
 
 ## Algorithms
