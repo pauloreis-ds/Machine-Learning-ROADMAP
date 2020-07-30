@@ -120,9 +120,9 @@ It is extremely useful for measuring Recall, Precision, Specificity, Accuracy an
  
   - **RECALL**: Ratio of True Positives. When it's actually yes, how often does it predict yes?
     - TP/actual yes(TP+FN) = 100/(100+5) = 0.95<br>
-      also known as "Sensitivity"
- 
- 
+      also known as "Sensitivity"<br>
+
+
   - **Misclassification Rate**: Overall, how often is it wrong?
     - (FP+FN)/total = (10+5)/165 = 0.09<br>
       equivalent to 1 minus Accuracy<br>
