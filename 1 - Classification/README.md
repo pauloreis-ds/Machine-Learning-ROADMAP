@@ -123,6 +123,10 @@ It is extremely useful for measuring Recall, Precision, Specificity, Accuracy an
       also known as "Sensitivity"<br>
 
 
+[Trading Off Precision and Recall -](https://www.coursera.org/lecture/machine-learning/trading-off-precision-and-recall-CuONQ) Important! Watch. Think about it. Try to create an example (go back to the confusion matrix image and change numbers, what would be the precision and recall if you had 50TP instead of 100)
+
+
+
   - _Misclassification Rate_: Overall, how often is it wrong?
     - (FP+FN)/total = (10+5)/165 = 0.09<br>
       equivalent to 1 minus Accuracy<br>
