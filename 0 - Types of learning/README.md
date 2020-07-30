@@ -37,6 +37,13 @@ Classification vs Regression on a data set/ spreadsheet:
 ## Unsupervised learning
 - **We have data, but no labels. The model tries to find patterns in data without something to reference on.**
 
+> As no labels are given to the algorithm, the model is on its on to find structure in the input. **Unsupervised learning can be a goal in itself (discovering hidden patterns in data) or a means towards an end (feature learning)**
+
+    Example: An advertising platform segments the U.S population into smaller groups with similar demographics and purchasing habits so
+    that advertisers can reach their target market with relevant ads. 
+    -----------------------------------------------------------------------------------------------------------------------------------
+    A data science team reduces the number of dimensions in a large data set to simplify modeling and reduce file size.
+
 
 <p align="center">
   <img src="images/4unsupervised.png" width="700" />
