@@ -98,8 +98,11 @@ It is extremely useful for measuring Recall, Precision, Specificity, Accuracy an
 > Terms you need to know:
 > ---------------------------------------------------------------------------------------------------------------------
 > **True Positives (TP)**: These are cases in which we predicted yes (they have the disease), and they do have the disease.
+>
 > **True Negatives (TN)**: We predicted no, and they don't have the disease.
+>
 > **False Positives (FP)**: We predicted yes, but they don't actually have the disease. (Also known as a "Type I error.")
+>
 > **False Negatives (FN)**: We predicted no, but they actually do have the disease. (Also known as a "Type II error.")
 
 
