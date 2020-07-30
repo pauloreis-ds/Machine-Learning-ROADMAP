@@ -150,9 +150,13 @@ There are more and as you may see it can get as [complicated](https://github.com
 
 
 <p align="center">
-  <img src="images/EELast.png" width="1000" />
+  <img src="images/EELast.png" width="1100" />
 </p>
 
+
+**y** --> Actual values.
+**y pred** --> Model's predictions 
+**output for threshold** --> Model's predictions "converted" to a language we understand (it could be 'Yes' or 'No', 'spam' or 'not spam'...)
 
 - **Accuracy**
 
