@@ -123,23 +123,23 @@ It is extremely useful for measuring Recall, Precision, Specificity, Accuracy an
       also known as "Sensitivity"<br>
 
 
-  - **Misclassification Rate**: Overall, how often is it wrong?
+  - __Misclassification Rate__: Overall, how often is it wrong?
     - (FP+FN)/total = (10+5)/165 = 0.09<br>
       equivalent to 1 minus Accuracy<br>
       also known as "Error Rate" 
   
   
-  - **False Positive Rate**: When it's actually no, how often does it predict yes?
+  - __False Positive Rate__: When it's actually no, how often does it predict yes?
     - FP/actual no = 10/60 = 0.17
   
   
-  - **True Negative Rate**: When it's actually no, how often does it predict no?
+  - __True Negative Rate__: When it's actually no, how often does it predict no?
     - TN/actual no = 50/60 = 0.83<br>
       equivalent to 1 minus False Positive Rate<br>
       also known as "Specificity"
   
  
-  - **Prevalence**: How often does the yes condition actually occur in our sample?
+  - __Prevalence__: How often does the yes condition actually occur in our sample?
     - actual yes/total = 105/165 = 0.64
     
 There are more and as you may see it can get as [complicated](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/blob/master/1%20-%20Classification/images/ZZcomplicated.JPG) as we want. For now, knowing those is a good way to start. Last recall:
