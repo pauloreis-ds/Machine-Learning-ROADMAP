@@ -20,6 +20,7 @@
   <img src="images/2supervised.png" width="700" />
 </p>
 
+Classification vs Regression on a data set/ spreadsheet:
 <p align="center">
   <img src="images/3supervised-data.png" width="700" />
 </p>
