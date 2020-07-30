@@ -72,9 +72,11 @@ Basically:
 </p>
 
 ## Evaluation Metrics
-- Confusion Matrix
-- Accuracy
-- F1 Score (Precision/Recall)
+Remember that the computer will take care of all the math, but you need to know (or in the beginnig, at least have an idea about) what it is doing, so you can use the functions correctly, changing and adapting to your situation in order to get better results.
+
+Confusion Matrix<br>
+Accuracy<br>
+F1 Score (Precision/Recall)<br>
 
 - **Confusion Matrix**
 **It is a table that is often used to describe the performance of a classification model ("classifier") on a set of test data for which the true values are known. It is useful for seeing where a model is getting "confused"/ how often it predicts the right and wrong classes.**
