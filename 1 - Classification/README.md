@@ -74,10 +74,6 @@ Basically:
 ## Evaluation Metrics
 Remember that the computer will take care of all the math, but you need to know (or in the beginnig, at least have an idea about) what it is doing, so you can use the functions correctly, changing and adapting to your situation in order to get better results.
 
-Confusion Matrix<br>
-Accuracy<br>
-F1 Score (Precision/Recall)<br>
-
 ### **Confusion Matrix**
 **It is a table that is often used to describe the performance of a classification model ("classifier") on a set of test data for which the true values are known. It is useful for seeing where a model is getting "confused"/ how often it predicts the right and wrong classes.**
 It is extremely useful for measuring Recall, Precision, Specificity, Accuracy and most importantly AUC-ROC Curve.
@@ -114,15 +110,15 @@ It is extremely useful for measuring Recall, Precision, Specificity, Accuracy an
 
 - This is a list of rates that are often computed from a confusion matrix for a binary classifier:<br>
   
-  - **Accuracy**: Overall, how often is the classifier correct?
+  - **ACCURACY**: Overall, how often is the classifier correct?
      - (TP+TN)/total = (100+50)/165 = 0.91 
   
   
-  - **Precision**: When it predicts yes, how often is it correct?
+  - **PRECISION**: When it predicts yes, how often is it correct?
     - TP/predicted yes = 100/110 = 0.91
  
  
-  - **Recall**: Ratio of True Positives. When it's actually yes, how often does it predict yes?
+  - **RECALL**: Ratio of True Positives. When it's actually yes, how often does it predict yes?
     - TP/( TP+FN) = 100/(100+5) = 0.95
       also known as "Sensitivity"
  
@@ -163,7 +159,7 @@ There are more and as you may see it can get as [complicated](https://github.com
 **y pred** --> Model's predictions<br>
 **output for threshold** --> Model's predictions "converted" to a language we understand (it could be 'Yes' or 'No', 'spam' or 'not spam'...)
 
-### **Accuracy**
+ps: **Accuracy**<br>
 **Informally, accuracy is the fraction of predictions our model got right.** As you can see in the image above. [This explanation](https://developers.google.com/machine-learning/crash-course/classification/accuracy) is pretty good, so I'll just leave the link for you to explore.
 
 
