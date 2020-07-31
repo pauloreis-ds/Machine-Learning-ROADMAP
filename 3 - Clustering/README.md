@@ -6,8 +6,8 @@
 
 
 <p float="left">
-  <img src="images/0cluster-analysis.jpg" width="450" />
-  <img src="images/1clusters.png" width="450" /> 
+  <img src="images/0cluster-analysis.jpg" width="400" />
+  <img src="images/1clusters.png" width="400" /> 
 </p>
 
 
@@ -26,11 +26,11 @@ Cluster analysis involves formulating a problem, selecting a distance measure, s
 
 
 <p align="center">
-  <img src="images/2Gaussian-data.png" width="450" />
+  <img src="images/2Gaussian-data.png" width="410" />
 </p>
  
 
-In the example above, it is easy to detect the existence of the clusters visually because the plot shows only two dimensions of data. Typically, cluster analysis is performed when the data is performed with high-dimensional data (30 variables), where there is no good way to visualize all the data.
+In the examples above, it is kind of easy to detect the existence of the clusters visually because the plot shows only two dimensions of data. Typically, cluster analysis is performed when the data is performed with high-dimensional data (30 variables), where there is no good way to visualize all the data.
 
 
 <p align="center">
