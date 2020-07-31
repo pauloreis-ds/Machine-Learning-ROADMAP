@@ -90,27 +90,17 @@ It measures the average of the squares of the errors (that is, the average squar
 It makes outliers stand out more. Use if being 10% off is more than twice as bad as being 5% off.<br>
 
 
-IMAGE ------ IMAGE ------------ IMAGE ------3outliers ------ 4outliers ------IMAGE ------ IMAGE ------
-<p float="left">
-  <img src="0fitting" width="500" />
-  <img src="0fitting" width="500" /> 
+IMAGE ------ IMAGE ------------ IMAGE ------3outliers ------ IMAGE ------ IMAGE ------
+<p align="center">
+  <img src="images/2binary vs muilti-class.png" width="500" />
 </p>
 
 
 MSE can represent the difference between the actual values and the values predicted by the model (how much are we wrong?).
 
-
     An MSE of zero, meaning that the predictions are made with perfect accuracy, is the ideal, but is typically not possible.
 
 Values of MSE may be used for comparative purposes. Two or more statistical models may be compared using their MSEs as a measure of how well they explain a given set of observations: an unbiased model with the smallest variance among all models is the best one.
-
-
-
-
-    Comparison of the Theil–Sen estimator (black) and simple linear regression (blue) for a set of points with outliers.
-    Because of the many outliers, neither of the regression lines fits the data well, as measured by the fact that neither
-    gives a very high R2.
-
 
 
 ps: another quantity that we calculate is the Root Mean Squared Error (RMSE). It is just the square root of the mean square error. That is probably the most easily interpreted statistic, since it has the same units as the quantity plotted on the vertical axis (y).
