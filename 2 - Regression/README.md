@@ -46,6 +46,16 @@ This is often called discretization and the resulting output variable is a class
 ### Coefficient of determination - R^2 (r-squared)
 Interpretation: it gives us some information about the goodness of fit of a model (how well it fits a set of observations). In regression, the R^2 coefficient of determination is a statistical measure of how well the regression predictions approximate the real data points.
 
+How well does the model fit?
+
+IMAGE ------ IMAGE ------0fitting ------ IMAGE ------1fitting ------ IMAGE ------IMAGE ------ IMAGE ------
+
+<p float="left">
+  <img src="0fitting" width="500" />
+  <img src="0fitting" width="500" /> 
+</p>
+
+
 - The coefficient of determination is the square of the correlation (r) between predicted y scores and actual y scores.
     - An R^2 of 0 means that the dependent variable cannot be predicted from the independent variable.
     - An R^2 of 1 means the dependent variable can be predicted without error from the independent variable, and is thus a highly reliable model for future forecasts.
@@ -53,11 +63,7 @@ Interpretation: it gives us some information about the goodness of fit of a mode
 
 
 
-IMAGE ------ IMAGE ------0fitting ------ IMAGE ------1fitting ------ IMAGE ------IMAGE ------ IMAGE ------
-<p float="left">
-  <img src="0fitting" width="500" />
-  <img src="0fitting" width="500" /> 
-</p>
+
 
 
 ### Mean Absolute Error (MAE)
