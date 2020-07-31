@@ -60,67 +60,56 @@ IMAGE ------ IMAGE ------0fitting ------ IMAGE ------1fitting ------ IMAGE -----
 </p>
 
 
-### Mean squared error (MSE)
-
-
-IMAGE ------ IMAGE ------------ IMAGE ------2outliers ------ IMAGE ------IMAGE ------ IMAGE ------
-
-    Comparison of the Theil–Sen estimator (black) and simple linear regression (blue) for a set of points with outliers.
-    Because of the many outliers, neither of the regression lines fits the data well, as measured by the fact that neither gives a very high R2.
-
-
-- **PART 1** ---> ??????????<br>
-**TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT**
+### Mean Absolute Error (MAE)
 
 
 
-        
-        
-     EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
-     ---------------------------------------------------------------------------------------------------------------------------------
-     EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
+IMAGE ------ IMAGE ------0fitting ------ IMAGE ------1fitting ------ IMAGE ------IMAGE ------ IMAGE ------
 
-
-- **PART 2** ---> ??????????<br>
-**TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT**
-     
 <p align="center">
   <img src="images/2binary vs muilti-class.png" width="500" />
 </p>
-      
-     EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
-     ---------------------------------------------------------------------------------------------------------------------------------
-     EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
 
 
-- **PART 3** ---> ??????????<br>
-**TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT**
+### Mean Squared Error (MSE)
+**MSE is a measure of how close a fitted line is to data points.**<br>
+
+    For every data point, you take the distance vertically from the point to the corresponding y value on the curve fit
+    (the error), and square the value. Then you add up all those values for all data points, and, in the case of a fit 
+    with two parameters such as a linear fit, divide by the number of points minus two.** The squaring is done so negative
+    values do not cancel positive values. The smaller the Mean Squared Error, the closer the fit is to the data. 
+
+It measures the average of the squares of the errors (that is, the average squared difference between the estimated/predicted values and the actual values).<br>
+It makes outliers stand out more. Use if being 10% off is more than twice as bad as being 5% off.<br>
+MSE can represent the difference between the actual values and the values predicted by the model (how much are we wrong?).
+
+    An MSE of zero, meaning that the predictions are made with perfect accuracy, is the ideal, but is typically not possible.
+
+Values of MSE may be used for comparative purposes. Two or more statistical models may be compared using their MSEs as a measure of how well they explain a given set of observations: an unbiased model with the smallest variance among all models is the best one.
 
 
-<p float="left">
-  <img src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/PauloReis02.png" width="500" />
-  <img src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png" width="500" />
-</p>
-
-       
-     EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
-     ---------------------------------------------------------------------------------------------------------------------------------
-     EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
-
-
+IMAGE ------ IMAGE ------------ IMAGE ------2outliers ------ IMAGE ------IMAGE ------ IMAGE ------
 <p align="center">
-  <img src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Paulo_Reis.png" width="500" />
+  <img src="images/2binary vs muilti-class.png" width="500" />
 </p>
 
+    Comparison of the Theil–Sen estimator (black) and simple linear regression (blue) for a set of points with outliers.
+    Because of the many outliers, neither of the regression lines fits the data well, as measured by the fact that neither
+    gives a very high R2.
 
-## TOPIC
-**TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT**
-    
-**Conclusion**
 
-TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT <br> 
-TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT <br>
 
+ps: another quantity that we calculate is the Root Mean Squared Error (RMSE). It is just the square root of the mean square error. That is probably the most easily interpreted statistic, since it has the same units as the quantity plotted on the vertical axis (y).
+
+
+
+[This may answer some questions of yours](https://www.dataquest.io/blog/understanding-regression-error-metrics/)
+
+
+
+      
+   
+   
 
 [<img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">](https://github.com/pauloreis-ds)
 
