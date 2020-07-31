@@ -109,6 +109,8 @@ ps: another quantity that we calculate is the Root Mean Squared Error (RMSE). It
 
 [MAE and RMSE — Which Metric is Better?](https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d). I thought it is interesting.
    
+### Algorithms
+Linear Regression, Logistic regression, Multivariate Regression algorithm, Support Vector Machine Regression, Decision Tree Regression.
 
 
 
