@@ -48,11 +48,10 @@ Interpretation: it gives us some information about the goodness of fit of a mode
 
 How well does the model fit?
 
-IMAGE ------ IMAGE ------0fitting ------ IMAGE ------1fitting ------ IMAGE ------IMAGE ------ IMAGE ------
 
 <p float="left">
-  <img src="0fitting" width="500" />
-  <img src="0fitting" width="500" /> 
+  <img src="images/0fitting.jpg" width="500" />
+  <img src="images/1fitting.png" width="500" /> 
 </p>
 
 
@@ -62,18 +61,11 @@ IMAGE ------ IMAGE ------0fitting ------ IMAGE ------1fitting ------ IMAGE -----
     - An R^2 between 0 and 1 indicates the extent to which the dependent variable is predictable. An R^2 of 0.10 means that 10% of the variance in y is predictable from X. An R^2 of 0.80 means that **80% of the dependent variable (y) is predicted by the independent variable(X)**, and so on.
 
 
-
-
-
-
 ### Mean Absolute Error (MAE)
 
 
-
-IMAGE ------ IMAGE ------ IMAGE ------2mae ------ IMAGE ------IMAGE ------ IMAGE ------
-
 <p align="center">
-  <img src="images/2binary vs muilti-class.png" width="500" />
+  <img src="images/2mae.jpg" width="500" />
 </p>
 
 
@@ -90,9 +82,8 @@ It measures the average of the squares of the errors (that is, the average squar
 It makes outliers stand out more. Use if being 10% off is more than twice as bad as being 5% off.<br>
 
 
-IMAGE ------ IMAGE ------------ IMAGE ------3outliers ------ IMAGE ------ IMAGE ------
 <p align="center">
-  <img src="images/2binary vs muilti-class.png" width="500" />
+  <img src="images/3OUTLIERS.jpg" width="500" />
 </p>
 
 
@@ -102,17 +93,10 @@ MSE can represent the difference between the actual values and the values predic
 
 Values of MSE may be used for comparative purposes. Two or more statistical models may be compared using their MSEs as a measure of how well they explain a given set of observations: an unbiased model with the smallest variance among all models is the best one.
 
-
 ps: another quantity that we calculate is the Root Mean Squared Error (RMSE). It is just the square root of the mean square error. That is probably the most easily interpreted statistic, since it has the same units as the quantity plotted on the vertical axis (y).
 
-
-
 [This may answer some questions of yours](https://www.dataquest.io/blog/understanding-regression-error-metrics/)
-
-
-
-      
-   
+  
    
 
 [<img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">](https://github.com/pauloreis-ds)
