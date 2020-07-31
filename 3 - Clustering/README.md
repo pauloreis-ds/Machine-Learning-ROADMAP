@@ -17,7 +17,37 @@ Cluster analysis involves formulating a problem, selecting a distance measure, s
     - City-planning: Identifying groups of houses according to their house type, value, and geographical location.
     - Earth-quake studies: Observed earth quake epicenters should be clustered along continent faults.
 
+
+IMAGE SIMPLE CLUSTER IMAGE
+
+
+In the example above, it is easy to detect the existence of the clusters visually because the plot shows only two dimensions of data. Typically, cluster analysis is performed when the data is performed with high-dimensional data (30 variables), where there is no good way to visualize all the data.
+
+
+IMAGE high-dimensional data  IMAGE
+
+
+And as simple as it is, that's it. There are a lot of ways to do clustering, right now the algorithms are not the focus, but here's a simplified explanation of how one of them works:
+
+
+IMAGE KMEAN IMAGE
+
+
 ### Evaluation Metrics
+One of the primary disadvantages of any clustering technique is that it is difficult to evaluate its performance. In real use cases we can’t look at the data and realise points are not really in a cluster (as you could see in the image above), we have to take the clustering algorithm at its word. Then, understand that the metrics do not measure the validity of the model’s predictions. Remember, we don’t have any reasonable way to determine how valid the cluster predictions are.
+
+Instead, the metrics evaluate the comparative performance of models against each other in terms of some heuristic metric.
+
+        To illustrate the point, think about what would happen if you were asked to group together 100 different bands. 
+        You might come up with some funky clustering where the Beatles, Black Sabbath, and Sex Pistols are all in the same
+        cluster. Someone else comes up with a different clustering that places the Beatles with Simon and Garfunkel, Black
+        Sabbath with Led Zeppelin, and Sex Pistols with Black Flag. Maybe there’s no ground truth, but we have some intuition
+        that the second clustering is better because it places each band in a cluster of bands ‘closer’ to their own sound.
+
+"Evaluating the performance of a clustering algorithm is not as trivial as counting the number of errors or the precision and recall of a supervised classification algorithm. In particular any evaluation metric should not take the absolute values of the cluster labels into account but rather if this clustering define separations of the data similar to some ground truth set of classes or satisfying some assumption such that members belong to the same class are more similar than members of different classes according to some similarity metric." scikit-learn documentation.
+
+Finally, I would say for you not to worry about this right now, but if you are really interested in learning about clustering metrics I encourage you to take a look at this and cry - I mean - have fun:<br>
+https://scikit-learn.org/stable/modules/classes.html?highlight=cluster#module-sklearn.metrics.cluster
 
 ### Algorithms
 K-Nearest-Neighbors (KNN), K-Means Clustering, Gaussian Mixture Model.
