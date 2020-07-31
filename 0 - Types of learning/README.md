@@ -5,7 +5,7 @@
 - Transfer learning
 
 ## Supervised learning
-- **We have data and labels and the model tries to learn the relationship between them.**
+- **We have data and labels and the model tries to learn the relationship between them.** We have input variables (X) and an output variable ( y or f(X) ) and we use an algorithm to learn the mapping function from the input to the output. The goal is to approximate the mapping function so well that when we have new input data (x) that you can predict the output variables (Y) for that data.
 
 
 <p align="center">
