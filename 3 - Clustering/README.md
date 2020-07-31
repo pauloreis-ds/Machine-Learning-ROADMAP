@@ -3,7 +3,14 @@
 
         Cluster Analysis has been used in marketing for various purposes. Group the customers of the business by their purchases.
         Labels for the groups aren't given (making it an **unsupervised** problem). Once groups are found, labels can be added.
-    
+
+
+<p float="left">
+  <img src="images/0cluster-analysis.jpg" width="550" />
+  <img src="images/1clusters.png" width="550" /> 
+</p>
+
+
 Cluster analysis involves formulating a problem, selecting a distance measure, selecting a clustering procedure, deciding the number of clusters, interpreting the profile clusters and finally, assessing the validity of clustering.
 
 - Typical applications
@@ -18,19 +25,30 @@ Cluster analysis involves formulating a problem, selecting a distance measure, s
     - Earth-quake studies: Observed earth quake epicenters should be clustered along continent faults.
 
 
-IMAGE SIMPLE CLUSTER IMAGE
-
+<p align="center">
+  <img src="images/2Gaussian-data.png" width="650" />
+</p>
+ 
 
 In the example above, it is easy to detect the existence of the clusters visually because the plot shows only two dimensions of data. Typically, cluster analysis is performed when the data is performed with high-dimensional data (30 variables), where there is no good way to visualize all the data.
 
 
-IMAGE high-dimensional data  IMAGE
+<p align="center">
+  <img src="images/3highdimensional.png" width="650" />
+</p>
 
 
 And as simple as it is, that's it. There are a lot of ways to do clustering, right now the algorithms are not the focus, but here's a simplified explanation of how one of them works:
 
 
-IMAGE KMEAN IMAGE
+<p align="center">
+  <img src="images/4Kmeans.JPG" width="700" />
+</p>
+
+
+<p align="center">
+  <img src="images/5ClusterAnalysis.png" width="650" />
+</p>
 
 
 ### Evaluation Metrics
@@ -51,3 +69,13 @@ https://scikit-learn.org/stable/modules/classes.html?highlight=cluster#module-sk
 
 ### Algorithms
 K-Nearest-Neighbors (KNN), K-Means Clustering, Gaussian Mixture Model.
+
+
+
+
+
+
+[<img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">](https://github.com/pauloreis-ds)
+
+
+---
