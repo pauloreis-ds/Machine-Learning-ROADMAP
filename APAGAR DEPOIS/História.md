@@ -27,6 +27,10 @@ Até consegui as opiniões do Data Professor e do Meigarom do canal Seja um Data
       Coleta de dados (BeautifulSoup)
       Machine Learning (tensorflow, sklearn)
 
+
+Aqui em baixo estão minhas rústicas anotações sobre em quais projetos de prática eu estava trabalhando, e postando aqui no github. A ideia no precipício era me jogar em uma quinzena de esforço para criar 5 projetinhos sobre cada tópico (em inglês e português). Quanta ingenuidade kkkk, levei bem mais que 15 dias, e no fim, percebi que não precisava criar 5 de cada, pois (além de alongar o tempo) como o Meigarom do canal Seja um Data Scientist disse "de forma cíclica", ou seja, sempre revisando e passando por todos os passos novamente a cada iteração. Bom, não exatamente todos, sejamos flexíveis. Até porque mesmo havendo um padrão, nossa abordagem muda em certos pontos de acordo com o problema. O fato é: me mantive reforçando o conhecimento refazendo os passos de outros projetos e a medida que algo novo surgia... Google Google e mais abas do Google.
+
+
 <p align="center">
   <img src="papel plano.jpeg" width="650" />
 </p>
