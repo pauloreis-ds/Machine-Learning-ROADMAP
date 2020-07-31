@@ -16,3 +16,5 @@ Types of problems:
 6. Finding uncommon things? This is usually anomaly detection. Most “trending” products (Foursquare, Twitter, Facebook) are examples, that surface things that are being tweeted/visited/talked about more than usual.
 
 In general, 1–4 are examples of supervised learning, and 5 & 6 fall into the unsupervised learning domain. However, there are obvious cross-overs here: for example, a recommendation problem is a kind of classification problem — the algorithm is trying to predict whether a user would (or would not) be interested in a thing.
+
+Most of the data science projects fall into two main categories — a regression problem(when the target variable is continuous/numerical) or classification problem(when the target variable(s) are discrete/categorical).
