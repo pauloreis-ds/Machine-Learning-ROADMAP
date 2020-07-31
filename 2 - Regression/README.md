@@ -49,9 +49,13 @@ Interpretation: it gives us some information about the goodness of fit of a mode
 How well does the model fit?
 
 
-<p float="left">
+<p align="center">
   <img src="images/0fitting.jpg" width="500" />
-  <img src="images/1fitting.png" width="500" /> 
+</p>
+
+
+<p align="center">
+  <img src="images/1fitting.png" width="500" />
 </p>
 
 
