@@ -42,16 +42,38 @@ We could also convert each age of a person into a "class"... which normally it w
 
 This is often called discretization and the resulting output variable is a classification where the labels have an ordered relationship (called ordinal).
 
+## Evaluation Metrics
+### Coefficient of determination - R^2 (r-squared)
+Interpretation: it gives us some information about the goodness of fit of a model (how well it fits a set of observations). In regression, the R^2 coefficient of determination is a statistical measure of how well the regression predictions approximate the real data points.
+
+- The coefficient of determination is the square of the correlation (r) between predicted y scores and actual y scores.
+    - An R^2 of 0 means that the dependent variable cannot be predicted from the independent variable.
+    - An R^2 of 1 means the dependent variable can be predicted without error from the independent variable, and is thus a highly reliable model for future forecasts.
+    - An R^2 between 0 and 1 indicates the extent to which the dependent variable is predictable. An R^2 of 0.10 means that 10% of the variance in y is predictable from X. An R^2 of 0.80 means that **80% of the dependent variable (y) is predicted by the independent variable(X)**, and so on.
+
+
+
+IMAGE ------ IMAGE ------0fitting ------ IMAGE ------1fitting ------ IMAGE ------IMAGE ------ IMAGE ------
+<p float="left">
+  <img src="0fitting" width="500" />
+  <img src="0fitting" width="500" /> 
+</p>
+
+
+### Mean squared error (MSE)
+
+
+IMAGE ------ IMAGE ------------ IMAGE ------2outliers ------ IMAGE ------IMAGE ------ IMAGE ------
+
+    Comparison of the Theil–Sen estimator (black) and simple linear regression (blue) for a set of points with outliers.
+    Because of the many outliers, neither of the regression lines fits the data well, as measured by the fact that neither gives a very high R2.
 
 
 - **PART 1** ---> ??????????<br>
 **TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT**
 
 
-<p float="left">
-  <img src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/PauloReis0.png" width="500" />
-  <img src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/PauloReis02.png" width="500" /> 
-</p>
+
         
         
      EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
