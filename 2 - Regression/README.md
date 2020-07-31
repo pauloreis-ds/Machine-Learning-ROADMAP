@@ -33,7 +33,7 @@ For example, a house may be predicted to sell for a specific dollar value, perha
 
 ## Convert Between Classification and Regression Problems
 
-- In some cases, it is possible to convert a regression problem to a classification problem. For example, the quantity to be predicted could be converted into discrete buckets. For example, amounts in a continuous range between $0 and $100 could be converted into 2 buckets:
+- In some cases, it is possible to convert a regression problem to a classification problem. The quantity to be predicted could be converted into discrete buckets. For example, amounts in a continuous range between $0 and $100 could be converted into 2 buckets:
 
 Class 0: $0 to $49
 Class 1: $50 to $100
