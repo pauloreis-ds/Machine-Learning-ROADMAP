@@ -1,4 +1,4 @@
-No início de junho decidi me tornar um \(*O*)/Data Scientist\(*O*)/. Uns dias antes estava pesquisando e buscando saber qual caminho seguir (desenvolvimento de software ou dados).
+No início de junho decidi me tornar um \\(\*O\*)/Data Scientist\\(\*O\*)/. Uns dias antes estava pesquisando e buscando saber qual caminho seguir (desenvolvimento de software ou dados).
 
 Após escolher, passei a estudar qual seria a maneira mais rápida de aprender e quais conteúdos focar. 
 
@@ -32,7 +32,7 @@ Tendo isso em mente, criei um super plano que me ajudaria a dominar todas as té
 </p>
 
 
-Como você pode ver, passei aproximadamente os primeiros 15 dias de junho apenas assistindo a vídeos sobre "Como ser um \(*O*)/Data Scientist\(*O*)/" e aulas sobre Pandas, Numpy e Matplotlib (e também pratiquei escrevendo códigos). A partir do dia 17 foi quando tomei coragem e realmente pisei fundo no acelerador, copiando projetos mais simples, testando, mudando umas partes, pesquisando detalhes de outras e já trabalhando o storytelling tentando descrever e explicar o que era feito (olhando hoje, vejo quão fraca era essa minha skill, e ainda penso que tenho bastante a melhorar).
+Como você pode ver, passei aproximadamente os primeiros 15 dias de junho apenas assistindo a vídeos sobre "Como ser um \\(\*O\*)/Data Scientist\\(\*O\*)/" e aulas sobre Pandas, Numpy e Matplotlib (e também pratiquei escrevendo códigos). A partir do dia 17 foi quando tomei coragem e realmente pisei fundo no acelerador, copiando projetos mais simples, testando, mudando umas partes, pesquisando detalhes de outras e já trabalhando o storytelling tentando descrever e explicar o que era feito (olhando hoje, vejo quão fraca era essa minha skill, e ainda penso que tenho bastante a melhorar).
 
 
 <p align="center">
