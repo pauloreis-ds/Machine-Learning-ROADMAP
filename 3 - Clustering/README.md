@@ -6,8 +6,8 @@
 
 
 <p float="left">
-  <img src="images/0cluster-analysis.jpg" width="500" />
-  <img src="images/1clusters.png" width="500" /> 
+  <img src="images/0cluster-analysis.jpg" width="450" />
+  <img src="images/1clusters.png" width="450" /> 
 </p>
 
 
@@ -26,7 +26,7 @@ Cluster analysis involves formulating a problem, selecting a distance measure, s
 
 
 <p align="center">
-  <img src="images/2Gaussian-data.png" width="500" />
+  <img src="images/2Gaussian-data.png" width="450" />
 </p>
  
 
@@ -45,7 +45,8 @@ And as simple as it is, that's it. There are a lot of ways to do clustering, rig
   <img src="images/4Kmeans.JPG" width="750" />
 </p>
 
-<br>
+<br><br>
+Different Algorithms:
 
 <p align="center">
   <img src="images/5ClusterAnalysis.png" width="650" />
