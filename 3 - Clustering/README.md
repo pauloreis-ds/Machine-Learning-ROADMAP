@@ -30,7 +30,7 @@ Cluster analysis involves formulating a problem, selecting a distance measure, s
 </p>
  
 
-In the examples above, it is kind of easy to detect the existence of the clusters visually because the plot shows only two dimensions of data. Typically, cluster analysis is performed when the data is performed with high-dimensional data (30 variables), where there is no good way to visualize all the data.
+In the examples above, it is kind of easy to detect the existence of the clusters visually because the plot shows only two dimensions of data. Typically, cluster analysis is performed when the data is performed with high-dimensional data (with 30 different variables, for example), where there is no good way to visualize all the data.
 
 
 <p align="center">
