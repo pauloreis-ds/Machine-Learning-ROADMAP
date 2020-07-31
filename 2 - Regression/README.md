@@ -50,12 +50,15 @@ How well does the model fit?
 
 
 <p align="center">
-  <img src="images/0fitting.jpg" width="500" />
+  <img src="images/0fitting.jpg" width="550" />
 </p>
 
 
+This Error point is important. Look at it!
+
+
 <p align="center">
-  <img src="images/1fitting.png" width="500" />
+  <img src="images/1fitting.png" width="700" />
 </p>
 
 
