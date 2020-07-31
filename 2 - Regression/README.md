@@ -69,6 +69,11 @@ This Error point is important. Look at it!
 
 
 ### Mean Absolute Error (MAE)
+All errors are on the same scale. If trying to predict 100, predicting 99 is the same error as predicting 101.
+
+    MAE measures the average magnitude of the errors in a set of predictions, without considering their direction. 
+    It’s the average over the sample of the absolute differences between prediction and actual observation where
+    all individual differences have equal weight.
 
 
 <p align="center">
@@ -77,8 +82,6 @@ This Error point is important. Look at it!
 
 
 ### Mean Squared Error (MSE)
-
-
 It measures the average of the squares of the errors (that is, the average squared difference between the estimated/predicted values and the actual values).<br>
 
     For every data point, you take the distance vertically from the point to the corresponding y value on the curve fit
@@ -103,8 +106,11 @@ Values of MSE may be used for comparative purposes. Two or more statistical mode
 ps: another quantity that we calculate is the Root Mean Squared Error (RMSE). It is just the square root of the mean square error. That is probably the most easily interpreted statistic, since it has the same units as the quantity plotted on the vertical axis (y).
 
 [This may answer some questions of yours](https://www.dataquest.io/blog/understanding-regression-error-metrics/)
-  
+
+[MAE and RMSE — Which Metric is Better?](https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d). I thought it is interesting.
    
+
+
 
 [<img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">](https://github.com/pauloreis-ds)
 
