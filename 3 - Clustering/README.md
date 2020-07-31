@@ -6,8 +6,8 @@
 
 
 <p float="left">
-  <img src="images/0cluster-analysis.jpg" width="550" />
-  <img src="images/1clusters.png" width="550" /> 
+  <img src="images/0cluster-analysis.jpg" width="500" />
+  <img src="images/1clusters.png" width="500" /> 
 </p>
 
 
@@ -26,7 +26,7 @@ Cluster analysis involves formulating a problem, selecting a distance measure, s
 
 
 <p align="center">
-  <img src="images/2Gaussian-data.png" width="650" />
+  <img src="images/2Gaussian-data.png" width="500" />
 </p>
  
 
@@ -34,7 +34,7 @@ In the example above, it is easy to detect the existence of the clusters visuall
 
 
 <p align="center">
-  <img src="images/3highdimensional.png" width="650" />
+  <img src="images/3highdimensional.png" width="500" />
 </p>
 
 
@@ -42,9 +42,10 @@ And as simple as it is, that's it. There are a lot of ways to do clustering, rig
 
 
 <p align="center">
-  <img src="images/4Kmeans.JPG" width="700" />
+  <img src="images/4Kmeans.JPG" width="750" />
 </p>
 
+<br>
 
 <p align="center">
   <img src="images/5ClusterAnalysis.png" width="650" />
