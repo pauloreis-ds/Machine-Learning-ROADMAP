@@ -20,7 +20,7 @@ Até consegui as opiniões do Data Professor e do Meigarom do canal Seja um Data
 
   
       Essa foi a ordem em que segui (para a maioria dos estudos, vez ou outra trocava e fazia uns projetos de outro tema, 
-      mas estava sempre que disponível, assistindo a alguma palestra sobre os outros temas):
+      mas (sempre que disponível) estava assistindo a alguma palestra sobre os outros temas):
       
       Processamento de Dados (Análise Exploratória de Dados - Pandas/Numpy)
       Visualização (Matplotlib/Seaborn)
