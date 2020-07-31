@@ -1,6 +1,6 @@
 # Regression Problems
 
-- Regression analysis is a set of statistical processes for estimating the relationships between a dependent variable (often called the 'outcome variable', y) and one or more independent variables (often called 'predictors', 'covariates', or 'features', X)<br> 
+- Regression analysis is a set of statistical processes for estimating the relationship between a dependent variable (the 'outcome variable', y) and one or more independent variables (often called 'predictors' or 'features', X)<br> 
 
 - A regression problem is when the output variable is a real or continuous value, such as “salary” or “weight”.
 
