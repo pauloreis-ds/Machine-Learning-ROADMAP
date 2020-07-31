@@ -1,4 +1,4 @@
-No início de junho decidi me tornar um \\(\*O\*)/Data Scientist\\(\*O\*)/. Uns dias antes estava pesquisando e buscando saber qual caminho seguir (desenvolvimento de software ou dados).
+No início de junho decidi me tornar um \\(\*O\*)/Data Scientist\\(\*O\*)/. Uns dias antes estava pesquisando e buscando saber qual caminho seguir (desenvolvimento de software ou rei dos dados).
 
 Após escolher, passei a estudar qual seria a maneira mais rápida de aprender e quais conteúdos focar. 
 
