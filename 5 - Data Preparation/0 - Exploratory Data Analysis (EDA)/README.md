@@ -21,3 +21,13 @@ Are there missing values? Should you remove them or fill them with feature imput
 Where are the outliers? How many of them are there? Are they out by much (3+standard deviations)? Why are they there?
 
 Are there questions you could ask a domain expert about the data? For example, would a heart disease physicion be able to shed some light on your hear diseas dataset?
+
+[data_science_starter_guide](https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/2%20-%20Data%20Processing%20(Wrangling%20-%20Cleaning%20-%20Analysis)/data_science_starter_guide.ipynb) from [Ken Jee](https://github.com/PlayingNumbers).
+
+
+
+
+[<img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">](https://github.com/pauloreis-ds)
+
+
+---
