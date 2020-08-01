@@ -1,5 +1,5 @@
 # Data Collection.
-#### "Without data, you're just another person with an opinion"
+#### _"Without data, you're just another person with an opinion"_
 
 ## Questions to ask
 * What kind of problem are we trying to solve?
