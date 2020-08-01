@@ -21,3 +21,12 @@
 The company may have its own data, so you would access it using **SQL** or another tool. If not, it is possible that you would have to do some web scraping using **BeautifulSoup**, **Selenium** or **Scrapy**. [Here's a quick overview about them](https://www.youtube.com/watch?v=zucvHSQsKHA).
 
 [Here's where you can start learning](https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/tree/master/1%20-%20Data%20Collection), there you'll also have the links for the videos.
+
+
+
+
+
+[<img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">](https://github.com/pauloreis-ds)
+
+
+---
