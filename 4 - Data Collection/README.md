@@ -19,3 +19,5 @@
  -Time Series (Data Across time)<br>
 
 The company may have its own data, so you would get it using **SQL** or another tool. If not, it is possible that you would have to do some web scraping using **BeautifulSoup**, **Selenium** or **Scrapy**. [Here's a quick overview about them](https://www.youtube.com/watch?v=zucvHSQsKHA).
+
+[Here's where you can start learning](https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/tree/master/1%20-%20Data%20Collection), there you'll also have the links for the videos.
