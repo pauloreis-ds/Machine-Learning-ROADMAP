@@ -21,3 +21,12 @@ Data preparation is the process of cleaning and transforming raw data prior to p
     - Exploratory Data Analisys (EDA) --> Learning about the data.
     - Data Preprocessing --> Preparing your data to be modelled.
     - Data Splitting --> last part of the Preprocessing (ready to modeling).
+
+
+
+
+
+[<img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">](https://github.com/pauloreis-ds)
+
+
+---
