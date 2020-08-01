@@ -5,7 +5,8 @@
      
        Here's where we try to better understand the dataset. ‘Understanding the dataset’ can refer to a number of things
        including but not limited to...
-        - Extracting important variables and leaving behind useless variables.
+       
+        - Extracting important variables and leaving behind useless ones.
         - Identifying outliers, missing values, or human error.
         - Understanding the relationships, or lack of them, between variables.
         - Ultimately, maximizing your insights of a dataset and minimizing potential error that may occur later in the process.
