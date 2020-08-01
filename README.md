@@ -1,6 +1,25 @@
 # Machine-Learning-ROADMAP
 ML: What to start with?
 
+- Types of learning
+  - Supervised learning
+  - Unsupervised learning
+  - Reinforcement learning
+  - Transfer learning
+  
+- ML Problems:
+  - Classification
+  - Regression
+  - Clustering
+  - Sequence to Sequence (not covered)
+      - Seq2seq is a family of machine learning approaches used for language processing.
+        Applications include language translation, image captioning, conversational models and text summarization.
+  - [Dimensionality Reduction](https://www.google.com/search?q=dimensionality+reduction+machine+learning&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjsrJOK3vjqAhV4IrkGHc3iDFEQ_AUoAXoECBMQAw#imgrc=hJmHBaB2nYY_bM) (not covered)
+      - Techniques to reduce the number of inputs into a model by mapping the features into lower dimensional space
+
+  
+
+
 
 Types of problems:
 1. Helping users find the right thing when they search? This is a ranking problem. Google, Bing, and Twitter search are all doing this — trying to sort things when you query so that the thing you’re looking for is at the top.
