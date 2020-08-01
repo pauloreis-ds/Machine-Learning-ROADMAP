@@ -1,6 +1,6 @@
 # Exploratory Data Analysis
 #### "_Not all those who wander are lost_"
-- "It's about getting your hands dirty with the data before really work on it."
+- The quality of your inputs decide the quality of your output.
 
      
        Here's where we try to better understand the dataset. ‘Understanding the dataset’ can refer to a number of things
