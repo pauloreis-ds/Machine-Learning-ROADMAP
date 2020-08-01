@@ -24,6 +24,7 @@ Are there questions you could ask a domain expert about the data? For example, w
 
 [data_science_starter_guide](https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/2%20-%20Data%20Processing%20(Wrangling%20-%20Cleaning%20-%20Analysis)/data_science_starter_guide.ipynb) from [Ken Jee](https://github.com/PlayingNumbers).
 
+[guide-data-exploration](https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/)
 
 
 
