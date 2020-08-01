@@ -1,5 +1,15 @@
 # Exploratory Data Analysis
 #### "_Not all those who wander are lost_"
+- "It's about getting your hands dirty with the data before really work on it."
+
+     
+       Here's where we try to better understand the dataset. ‘Understanding the dataset’ can refer to a number of things
+       including but not limited to...
+        - Extracting important variables and leaving behind useless variables.
+        - Identifying outliers, missing values, or human error.
+        - Understanding the relationships, or lack of them, between variables.
+        - Ultimately, maximizing your insights of a dataset and minimizing potential error that may occur later in the process.
+
 
 What are the feature variables (input - X) and the target variables (output - y)? For example, for predicting heart disease, the feature variables may be a person's age, weight, average heart rate and more... and the target variable will be whether or not ther have heart disease.
 
