@@ -15,3 +15,9 @@ Data preparation is the process of cleaning and transforming raw data prior to p
 <p align="center">
   <img src="https://media.geeksforgeeks.org/wp-content/uploads/20190312184006/Data-Preprocessing.png" width="500" />
 </p>
+
+
+- Let's divide it in three steps:
+    - Exploratory Data Analisys (EDA) --> Learning about the data.
+    - Data Preprocessing --> Preparing your data to be modelled.
+    - Data Splitting --> last part of the Preprocessing (ready to modeling).
