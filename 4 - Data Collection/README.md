@@ -12,10 +12,10 @@
 - **Unstructed data:** data with no rigid structure (images, videos, natural language text/speech).
 - **Structed data:** data which appears in tabulated format (rows and columns, a spreadsheet)
 
-[Types of data](https://towardsdatascience.com/data-types-in-statistics-347e152e8bee):<br>
-        Categorical<br>
-        Numerical<br>
-        Ordinal<br>
-        Time Series (Data Across time)<br>
++[Types of data](https://towardsdatascience.com/data-types-in-statistics-347e152e8bee):<br>
+ - Categorical<br>
+ - Numerical<br>
+ - Ordinal<br>
+ - Time Series (Data Across time)<br>
 
 The company may have its own data, so you would get it using **SQL** or another tool. If not, it is possible that you would have to do some web scraping using **BeautifulSoup**, **Selenium** or **Scrapy**. [Here's a quick overview about them](https://www.youtube.com/watch?v=zucvHSQsKHA).
