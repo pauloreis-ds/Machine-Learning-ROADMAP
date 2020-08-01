@@ -1,20 +1,21 @@
 # Machine-Learning-ROADMAP
 ML: What to start with?
 
-- Types of learning
+- [Types of learning](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/tree/master/0%20-%20Types%20of%20learning)
   - Supervised learning
   - Unsupervised learning
   - Reinforcement learning
   - Transfer learning
   
 - ML Problems:
-  - Classification
-  - Regression
-  - Clustering
-  - Sequence to Sequence (not covered)
+  - [Classification](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/tree/master/1%20-%20Classification)
+  - [Regression](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/tree/master/2%20-%20Regression)
+  - [Clustering](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/tree/master/3%20-%20Clustering)
+  - Sequence to Sequence 
       - Seq2seq is a family of machine learning approaches used for language processing.
         Applications include language translation, image captioning, conversational models and text summarization.
-  - [Dimensionality Reduction](https://www.google.com/search?q=dimensionality+reduction+machine+learning&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjsrJOK3vjqAhV4IrkGHc3iDFEQ_AUoAXoECBMQAw#imgrc=hJmHBaB2nYY_bM) (not covered)
+  - Dimensionality Reduction
+  
       - Techniques to reduce the number of inputs into a model by mapping the features into lower dimensional space
 
   
