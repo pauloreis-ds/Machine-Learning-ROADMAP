@@ -23,7 +23,7 @@
 
 - Are there questions you could ask a domain expert about the data? For example, would a heart disease physician be able to shed some light on your heart disease dataset?
 
-> ps: visualization can help you in this task, so make good use of graphs... and also, after you learn how to manipulate data to do all this, you'll need to know some statistics in order to comprehend what the data is telling you.
+> ps: visualization can help you in this exploratory task, so make good use of graphs... and also, after you learn how to manipulate data to do all this, you'll need to know some statistics in order to comprehend what the data is telling you.
 
 [data_science_starter_guide_sheet_cheat](https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/2%20-%20Data%20Processing%20(Wrangling%20-%20Cleaning%20-%20Analysis)/data_science_starter_guide.ipynb) from [Ken Jee](https://github.com/PlayingNumbers).
 
