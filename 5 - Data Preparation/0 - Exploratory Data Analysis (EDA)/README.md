@@ -13,7 +13,7 @@
 
 ### Some questions to have in mind.
 
-- What are the feature variables (input - X) and the target variables (output - y)? For example, for predicting heart disease, the feature variables may be a person's age, weight, average heart rate and more... and the target variable will be whether or not ther have heart disease.
+- What are the feature variables (input - X) and the target variables (output - y)? For example, for predicting heart disease, the feature variables may be a person's age, weight, average heart rate and more... and the target variable will be whether or not they have heart disease.
 
 - What kind of data do we have (structured, unstructured, categorical, numerial)? Create a data dictionary for what each feature is. If you've got a column of numbers called "hr" how would someone else know that it actually means Heart Rate?
 
