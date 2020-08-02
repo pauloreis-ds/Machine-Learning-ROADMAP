@@ -11,14 +11,20 @@
       
       - Feature normalization (scaling) or standardization. When your numerical variables are on different scales 
         (number_of_bathrooms is between 1 and 5 and size_of_land_ between 5,000 and 20,000 sq feet), some machine learning
-        algorithms don't  perform very well. Scaling and standardization help to fix this.
+        algorithms don't perform very well. Scaling and standardization help to fix this.
       
       - Feature engineering: transform data into (potentially) more meaningful representations by adding in domain knowledge.
       
       - Feature selection: selecting the most valuable features of your dataset to model. Potentially reducing overfitting 
-        and training time (less overall data and less redundant data to train on) and improving.
+        and training time (less overall data and less redundant data to train on) and improving accuracy.
       
       - Dealing with imbalances: does your data have 10,000 examples of one class but only 100 examples of another?
+
+
+
+
+
+
 
 
 
