@@ -43,11 +43,11 @@ uncertainty of the missing values in a better way. The chained equations approac
 
 
 <p align="center">
-  <img src="image/0Imputation Using Multivariate Imputation by Chained Equation (MICE).jpg" width="800" />
+  <img src="image/0Imputation Using Multivariate Imputation by Chained Equation (MICE).jpg" width="1000" />
 </p>
 
 
-[Multiple Imputation](https://www.youtube.com/watch?v=LMsULWGtP2c)
+[Multiple Imputation.](https://www.youtube.com/watch?v=LMsULWGtP2c)
 
 ### -> Imputation Using Deep Learning (Datawig):
 This method works very well with categorical and non-numerical features. It is a library that learns Machine Learning models using Deep Neural Networks to impute missing values
@@ -73,6 +73,8 @@ Works by randomly choosing the missing value from a set of related and similar v
 
 <br>
 [Impyute](https://impyute.readthedocs.io/en/master/index.html) is a library of missing data imputation algorithms written in Python 3. This library was designed to be super lightweight, here’s a sneak peak at what impyute can do.
+<br>
+
 
 
 
