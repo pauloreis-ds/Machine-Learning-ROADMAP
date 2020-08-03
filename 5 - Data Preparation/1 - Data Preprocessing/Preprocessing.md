@@ -43,9 +43,11 @@ uncertainty of the missing values in a better way. The chained equations approac
 
 
 <p align="center">
-  <img src="image/0Imputation Using Multivariate Imputation by Chained Equation (MICE).jpg" width="500" />
+  <img src="image/0Imputation Using Multivariate Imputation by Chained Equation (MICE).jpg" width="800" />
 </p>
 
+
+[Multiple Imputation](https://www.youtube.com/watch?v=LMsULWGtP2c)
 
 ### -> Imputation Using Deep Learning (Datawig):
 This method works very well with categorical and non-numerical features. It is a library that learns Machine Learning models using Deep Neural Networks to impute missing values
@@ -61,16 +63,16 @@ in a dataframe. It also supports both CPU and GPU for training.
             - Can be quite slow with large datasets.
             - You have to specify the columns that contain information about the target column that will be imputed.
 
-### Other Imputation Methods You Can Search for:
-## Stochastic regression imputation:
+## Other Imputation Methods You Can Search for:
+### Stochastic regression imputation:
 It is quite similar to regression imputation which tries to predict the missing values by regressing it from other related variables in the same dataset plus some random residual value.
-## Extrapolation and Interpolation:
+### Extrapolation and Interpolation:
 It tries to estimate values from other observations within the range of a discrete set of known data points.
-## Hot-Deck imputation:
+### Hot-Deck imputation:
 Works by randomly choosing the missing value from a set of related and similar variables.
 
-
-
+<br>
+[Impyute](https://impyute.readthedocs.io/en/master/index.html) is a library of missing data imputation algorithms written in Python 3. This library was designed to be super lightweight, here’s a sneak peak at what impyute can do.
 
 
 
