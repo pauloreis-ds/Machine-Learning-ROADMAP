@@ -64,6 +64,16 @@ In this case you may want to go back to the data collection step and create new 
 temporal structure in the purchases, like perhaps seasonality. For example, the following new binary features could be created: Purchases_Summer, Purchases_Fall, 
 Purchases_Winter and Purchases_Spring.
 
+      + Good features to engineer
+
+       - Can be computed for future observations.
+       - Are usually intuitive to explain.
+       - Are informed by domain knowledge or exploratory analysis.
+       - Must have the potential to be predictive. Don’t just create features for the sake of it.
+       - Never touch the target variable. This a trap that beginners sometimes fall into. Whether you’re creating 
+         indicator variables or interaction features, never use your target variable. That’s like “cheating” and 
+         it would give you very misleading results.
+
 
 
 
