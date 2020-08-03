@@ -69,7 +69,7 @@
 - Indicator features: using other parts of the data to indicate something potentially significant.
       Example: create an X_is_missing feature for wherever a column contains a specific missing value.
 
-## Feature selection
+## [Feature selection](https://machinelearningmastery.com/an-introduction-to-feature-selection/)
 
 - Dimensionality reduction: A common dimensionality reduction method, Principal Component Analysis (PCA), takes a larger number of dimensions (features) and uses linear algebra to reduce them to less dimensions. For example, say you have 10 numerical features, you could run PCA to reduce it down to 3.
 
