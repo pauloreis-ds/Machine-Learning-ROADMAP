@@ -4,6 +4,7 @@
 - Feature engineering is the process of transforming raw data into features that better represent the underlying problem to the predictive models, 
 resulting in improved model accuracy on unseen data.
 - Feature engineering is manually designing what the input x’s should be. You have to turn your inputs into things the algorithm can understand.
+- In a nutshell, we define feature engineering as creating new features from your existing ones to improve model performance.
 
       Machine learning algorithms learn a solution to a problem from sample data.
       In this context, feature engineering asks: what is the best representation 
@@ -11,6 +12,11 @@ resulting in improved model accuracy on unseen data.
 
 > "_Actually, the success of all Machine Learning algorithms depends on how you present the data._"
 
+**Through feature engineering, you can isolate key information, highlight patterns, and bring in domain expertise.**
+
+Unsurprisingly, it can be easy to get stuck because feature engineering is so open-ended.
+
+[Best Practices for Feature Engineering.](https://elitedatascience.com/feature-engineering-best-practices)
 
 ## General Examples of Feature Engineering
 ### Decompose Categorical Attributes
