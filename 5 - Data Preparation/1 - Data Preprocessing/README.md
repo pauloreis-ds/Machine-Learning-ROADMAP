@@ -20,7 +20,7 @@
       
       - Dealing with imbalances: does your data have 10,000 examples of one class but only 100 examples of another?
 
-## Feature imputation
+## [Feature imputation](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/blob/master/5%20-%20Data%20Preparation/1%20-%20Data%20Preprocessing/Feature%20Imputation.md)
 
 - Single imputation: Fill missing values with mean or median.
 
