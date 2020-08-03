@@ -6,10 +6,10 @@ resulting in improved model accuracy on unseen data.
 - Feature engineering is manually designing what the input x’s should be. You have to turn your inputs into things the algorithm can understand.
 
       Machine learning algorithms learn a solution to a problem from sample data.
-      In this context, feature engineering asks: what is the best representation of the sample data to learn a solution to
-      your problem?
+      In this context, feature engineering asks: what is the best representation 
+      of the sample data to learn a solution to your problem?
 
-> "_Actually the success of all Machine Learning algorithms depends on how you present the data._"
+> "_Actually, the success of all Machine Learning algorithms depends on how you present the data._"
 
 
 ## General Examples of Feature Engineering
