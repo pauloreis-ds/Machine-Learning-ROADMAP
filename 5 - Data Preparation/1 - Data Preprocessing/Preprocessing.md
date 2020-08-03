@@ -72,7 +72,7 @@ It tries to estimate values from other observations within the range of a discre
 Works by randomly choosing the missing value from a set of related and similar variables.
 
 <br>
-[Impyute](https://impyute.readthedocs.io/en/master/index.html) is a library of missing data imputation algorithms written in Python 3. This library was designed to be super lightweight, here’s a sneak peak at what impyute can do.
+[Impyute](impyute.readthedocs.io/en/master/index.html) is a library of missing data imputation algorithms written in Python 3. This library was designed to be super lightweight, here’s a sneak peak at what impyute can do.
 <br>
 
 
