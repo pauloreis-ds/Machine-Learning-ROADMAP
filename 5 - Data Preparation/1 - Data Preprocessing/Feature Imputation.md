@@ -1,5 +1,3 @@
-## Feature imputation
-
 ### -> Imputation Using (Mean/Median) Values
 
       + Pros:
