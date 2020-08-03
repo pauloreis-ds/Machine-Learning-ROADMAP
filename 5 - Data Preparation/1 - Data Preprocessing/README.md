@@ -58,7 +58,7 @@
       Doing this means values do not end up between 0 and 1 (their range is uncapped) 
       Standardization is more robust to outliers than feature scaling.
 
-## Feature engineering
+## [Feature engineering](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/blob/master/5%20-%20Data%20Preparation/1%20-%20Data%20Preprocessing/Feature%20engineering.md)
 
 - Decompose, for example, turn a date (such as 2020-06-18 20:16:24) into hour_of_day, day_of_week, day_of_month, is_holiday, etc.
 
