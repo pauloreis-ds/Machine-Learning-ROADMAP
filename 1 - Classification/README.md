@@ -1,4 +1,5 @@
 # Classification Problems
+#### _"Science is the Systematic Classification of Experience"_
 
 - "Classification is simply grouping things together according to similar features and attributes. When you go to a grocery store, you can accurately group the foods by food group (grains, fruit, vegetables, meat)". In machine learning, classification is all about teaching computers to do the same.
 
