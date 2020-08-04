@@ -1,4 +1,6 @@
 # Clustering Problems
+#### _"You are the average of the five people you spend the most time with"_
+
 - Cluster analysis is the task of grouping a set of objects in such a way that objects in the same group (cluster) are more similar (in some sense) to each other than to those in other groups (clusters).
 
         Cluster Analysis has been used in marketing for various purposes. Group the customers of the business by their purchases.
