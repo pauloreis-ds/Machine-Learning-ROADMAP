@@ -83,7 +83,8 @@
 
 - Use the scikit-learn-contrib imbalanced-learn package (a scikit-learn compatible Python library for dealing with imbalanced datasets).
 
-- Use SMOTE (synthetic minority over-sampling technique) which creates synthetic samples of your minor class to try and level the playing field. You can access an implementation of SMOTE contained within the scikit-learn-contrib imbalanced-learn packange.
+- Use [SMOTE](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/) (synthetic minority over-sampling technique) which creates synthetic samples of your minor class to try and level the playing field. 
+      - "Data augmentation is a technique to artificially create new training data from existing training data."
 
 - A helpful (and technical) paper to look at is "[Learning from Imbalanced Data](https://www.ele.uri.edu/faculty/he/PDFfiles/ImbalancedLearning.pdf)". You could use this as a starting point to go onto the next thing.
 
