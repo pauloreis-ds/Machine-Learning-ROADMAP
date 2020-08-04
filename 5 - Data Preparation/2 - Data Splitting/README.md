@@ -23,7 +23,7 @@
     
  A good explanation about [data splitting](https://towardsdatascience.com/data-splitting-technique-to-fit-any-machine-learning-model-c0d7f3f1c790).
  
- A simpler and more codeable explanation of data splitting and [machine learning](https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/tree/master/3%20-%20Data%20Analysis%20(Machine%20Learning)).
+ My simpler and more codeable explanation of data splitting and [machine learning](https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/tree/master/3%20-%20Data%20Analysis%20(Machine%20Learning)).
     
    
 
