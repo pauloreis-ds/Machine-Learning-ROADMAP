@@ -1,7 +1,7 @@
 # Machine-Learning-ROADMAP
 ML: What to start with?
 
-**_Understand The Basis._**
+**_Understand The Basis. \[Press Start\]_**
 
 - [Types of learning](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/tree/master/0%20-%20Types%20of%20learning)
   - Supervised learning
