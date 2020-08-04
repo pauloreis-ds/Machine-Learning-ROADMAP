@@ -15,9 +15,21 @@ ML: What to start with?
       - Seq2seq is a family of machine learning approaches used for language processing.
         Applications include language translation, image captioning, conversational models and text summarization.
   - Dimensionality Reduction
-  
       - Techniques to reduce the number of inputs into a model by mapping the features into lower dimensional space
-
+      
+- ML Process:
+  - [Data Collection](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/tree/master/4%20-%20Data%20Collection)
+  - [Data Preparation](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/tree/master/5%20-%20Data%20Preparation)
+      - Exploratory Data Analysis (EDA)
+      - Data Preprocessing
+      - Data Splitting
+  - [Training Model]()
+  
+  - [Analysis/Evaluation]()
+  
+  - [Deploying Model]()
+  
+  - [Retrain Model]()
   
 
 
@@ -38,3 +50,9 @@ Types of problems:
 In general, 1–4 are examples of supervised learning, and 5 & 6 fall into the unsupervised learning domain. However, there are obvious cross-overs here: for example, a recommendation problem is a kind of classification problem — the algorithm is trying to predict whether a user would (or would not) be interested in a thing.
 
 Most of the data science projects fall into two main categories — a regression problem(when the target variable is continuous/numerical) or classification problem(when the target variable(s) are discrete/categorical).
+
+
+
+[<img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">](https://github.com/pauloreis-ds)
+
+---
