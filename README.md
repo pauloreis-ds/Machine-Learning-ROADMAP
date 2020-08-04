@@ -1,14 +1,16 @@
 # Machine-Learning-ROADMAP
 ML: What to start with?
 
-__Understand The Basis.__
+**_Understand The Basis._**
 
 - [Types of learning](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/tree/master/0%20-%20Types%20of%20learning)
   - Supervised learning
   - Unsupervised learning
   - Reinforcement learning
   - Transfer learning
-  
+ 
+**_What can you do? Why would you do it?_** 
+ 
 - ML Problems:
   - [Classification](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/tree/master/1%20-%20Classification)
   - [Regression](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/tree/master/2%20-%20Regression)
@@ -18,7 +20,9 @@ __Understand The Basis.__
         Applications include language translation, image captioning, conversational models and text summarization.
   - Dimensionality Reduction
       - Techniques to reduce the number of inputs into a model by mapping the features into lower dimensional space
-      
+ 
+**_How to do it?_** 
+ 
 - ML Process:
   - [Data Collection](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/tree/master/4%20-%20Data%20Collection)
   - [Data Preparation](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/tree/master/5%20-%20Data%20Preparation)
