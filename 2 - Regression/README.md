@@ -1,4 +1,5 @@
 # Regression Problems
+#### _"You can only connect the dots looking backwards"_
 
 - Regression analysis is a set of statistical processes for estimating the relationship between a dependent variable (the 'outcome variable', y) and one or more independent variables (often called 'predictors' or 'features', X)<br> 
 
