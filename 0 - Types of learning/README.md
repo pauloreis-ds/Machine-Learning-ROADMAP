@@ -1,3 +1,4 @@
+#### _"All I know is that I know Nothing"_
 # Types of Learning
 - Supervised learning
 - Unsupervised learning
