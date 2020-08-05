@@ -8,7 +8,7 @@
         Support Vector Machine (SVM)
         Decision Tree
         Random Forest
-        Gradient Boosting Machine
+        Gradient Boosting Machine (XGBoost, CatBoost, LightGBM)
         Neural Network (deep learning)
 
      Unsupervised Algorithms
