@@ -3,7 +3,7 @@
 
 [Machine Learning](https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/tree/master/3%20-%20Data%20Analysis%20(Machine%20Learning)) - simplified.
 
-- Choose an Algorithm.
+- [Choose an Algorithm](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/blob/master/6%20-%20Training%20Model/Choosing%20an%20algorithm.md).
 - Overfit the Model.
 - Reduce overfitting with regularization.
 
