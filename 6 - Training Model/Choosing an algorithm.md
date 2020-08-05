@@ -15,6 +15,14 @@
         K-Means Clustering
         Anomaly Detection (one class --> K-Means, SVM)
         Visualization and Dimensionality Reduction
+               
+[When to use different machine learning algorithms: a simple guide.](https://www.freecodecamp.org/news/when-to-use-different-machine-learning-algorithms-a-simple-guide-ba615b19fb3b/)
+
+[Choosing the Right Machine Learning Algorithm.](https://hackernoon.com/choosing-the-right-machine-learning-algorithm-68126944ce1f)
+
+<p align="center">
+  <img src="image/0ml model trade off.png" width="700" />
+</p>
 
 ## [Linear Regression](https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU)
 
@@ -44,6 +52,17 @@ Can be used for classification or regression. It asks the question, can a series
 ## Neural Network (deep learning)
 
 Can be used for classification or regression. Takes a series of inputs, manipulates the inputs with linear (dot product between weights and inputs) and nonlinear functions (activation function). Do this a multiple of times (at least once for each neuron in a model). The importance of linear and non-linear functions (straight and non-straight lines) means neural networks can use this combination to estimate almost anything.
+
+
+<p align="center">
+  <img src="image/1ml tour.png" width="1000" />
+</p>
+
+
+<p align="center">
+  <img src="image/2ml_map.png" width="1000" />
+</p>
+
 
 
 
