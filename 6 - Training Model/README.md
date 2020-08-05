@@ -3,6 +3,10 @@
 
 [Machine Learning](https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/tree/master/3%20-%20Data%20Analysis%20(Machine%20Learning)) - simplified.
 
+- Choose an Algorithm.
+- Overfit the Model.
+- Reduce overfitting with regularization.
+
 
 
 
