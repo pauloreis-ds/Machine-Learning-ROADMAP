@@ -24,7 +24,7 @@
   <img src="image/0ml model trade off.png" width="700" />
 </p>
 
-## [Linear Regression](https://www.youtube.com/watch?v=ZkjP5RJLQF4)
+## [Linear Regression](https://www.youtube.com/watch?v=ZkjP5RJLQF4) 
 
 Draw a line that best fits data scattered on a graph.
 Produces continuous variables(example: height in inches).
