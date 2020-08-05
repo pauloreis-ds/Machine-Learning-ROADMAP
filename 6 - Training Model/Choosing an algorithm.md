@@ -1,5 +1,5 @@
 # Choosing an Algorithm
-#### _"When you want the absolute best chance to succeed at anything you want, your approach should always be the same. Go small"_
+#### _"Everything You Are Comes From Your Choices"_
 
       Supervised Algorithms
         Linear Regression
