@@ -16,6 +16,7 @@
         Anomaly Detection (one class --> K-Means, SVM)
         Visualization and Dimensionality Reduction
 
+[Linear Regression](https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU)
 
 
 
