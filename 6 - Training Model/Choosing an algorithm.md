@@ -29,7 +29,7 @@
 Draw a line that best fits data scattered on a graph.
 Produces continuous variables(example: height in inches).
 
-## Logistic Regression
+## [Logistic Regression](https://www.youtube.com/playlist?list=PLIeGtxpvyG-JmBQ9XoFD4rs-b3hkcX7Uu)
 
 Predicts a binary outcome based on a series of independent variables. For example, if you're trying to predict whether someone has heart disease or not based on their health parameters.
 
