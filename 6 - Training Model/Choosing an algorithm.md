@@ -33,9 +33,9 @@ Produces continuous variables(example: height in inches).
 
 Predicts a binary outcome based on a series of independent variables. For example, if you're trying to predict whether someone has heart disease or not based on their health parameters.
 
-## K-Nearest Neighbours
+## [K-Nearest Neighbours](https://www.youtube.com/watch?v=HVXime0nQeI)
 
-Find the 'k' examples which are most similar to each other. Then, given a new sample, which is the new sample most closely aligned with?
+Find the 'k' examples which are most similar(nearest) to each other. Then, given a new sample, which is the new sample most closely aligned with?
 
 ## Support Vector Machine (SVM)
 
