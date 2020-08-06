@@ -37,7 +37,7 @@ Predicts a binary outcome based on a series of independent variables. For exampl
 
 Find the 'k' examples which are most similar(nearest) to each other. Then, given a new sample, which is the new sample most closely aligned with?
 
-## Support Vector Machine (SVM)
+## [Support Vector Machine](https://www.youtube.com/watch?v=Y6RRHw9uN9o) (SVM)
 
 Can be used for classification or regression. Try to find best way to seperate data points using multiple planes (referred to as Hyperplanes). Imagine a road running through a city with red cars on the left and green cars on the right, the SVM is the road. With more data, you might need more dimensions (more roads on different angles and cars on different heights). 
 
