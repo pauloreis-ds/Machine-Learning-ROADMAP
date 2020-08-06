@@ -43,7 +43,7 @@ Can be used for classification or regression. Try to find best way to seperate d
 
 [SVM](https://www.youtube.com/watch?v=efR1C6CvhmE&t=10s) by StatQuest - check it out!
 
-## Decision Tree and Random Forest
+## [Decision Tree](https://www.youtube.com/watch?v=7VeUPuFGJHk) and [Random Forest](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
 
 Can be used for classification and regression (very valuable algorithm for structured data). Decision trees split data based on criteria such as, "is over 50" and "has average heart rate lower than 65" eventually getting to a point where the data can't be split anymore (you can define this). Random Forests are a combination of many decision trees, effectively leveraging and combining the choices of many models (this technique of using a combination of models is known as ensembling).
 
