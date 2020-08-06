@@ -41,6 +41,8 @@ Find the 'k' examples which are most similar(nearest) to each other. Then, given
 
 Can be used for classification or regression. Try to find best way to seperate data points using multiple planes (referred to as Hyperplanes). Imagine a road running through a city with red cars on the left and green cars on the right, the SVM is the road. With more data, you might need more dimensions (more roads on different angles and cars on different heights). 
 
+[SVM](https://www.youtube.com/watch?v=efR1C6CvhmE&t=10s) by StatQuest - check it out!
+
 ## Decision Tree and Random Forest
 
 Can be used for classification and regression (very valuable algorithm for structured data). Decision trees split data based on criteria such as, "is over 50" and "has average heart rate lower than 65" eventually getting to a point where the data can't be split anymore (you can define this). Random Forests are a combination of many decision trees, effectively leveraging and combining the choices of many models (this technique of using a combination of models is known as ensembling).
