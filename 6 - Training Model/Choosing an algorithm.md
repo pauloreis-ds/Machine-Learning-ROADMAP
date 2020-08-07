@@ -50,13 +50,15 @@ Can be used for classification or regression. Try to find best way to seperate d
 
 Can be used for classification and regression (very valuable algorithm for structured data). Decision trees split data based on criteria such as, "is over 50" and "has average heart rate lower than 65" eventually getting to a point where the data can't be split anymore (you can define this). Random Forests are a combination of many decision trees, effectively leveraging and combining the choices of many models (this technique of using a combination of models is known as ensembling).
 
-## Gradient Boosting Machine
+## [Gradient Boosting Machine](https://www.youtube.com/watch?v=3CC4N4z3GJc)
 
 Can be used for classification or regression. It asks the question, can a series of weak learners be turned into a strong learner? For example, train a series of weak learners whos job it is to improve each other (another example of an ensemble method, combining multiple weaker models to create a better one).
 
-## Neural Network (deep learning)
+## [Neural Network](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (deep learning)
 
 Can be used for classification or regression. Takes a series of inputs, manipulates the inputs with linear (dot product between weights and inputs) and nonlinear functions (activation function). Do this a multiple of times (at least once for each neuron in a model). The importance of linear and non-linear functions (straight and non-straight lines) means neural networks can use this combination to estimate almost anything.
+
+> There are a great variety of algorithms to learn, so instead of trying to learn all of them at once, pick some, work with them, test them, learn them and then choose another set. As you'll understand more and more how they work, and with experience from tests and projects you'll eventually know how to deal with problems.
 
 
 <p align="center">
