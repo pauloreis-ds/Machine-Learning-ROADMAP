@@ -46,8 +46,17 @@ Manipulate your dataset in artificial ways to make it "harder to learn". For exa
 ### Batch Normalization
 Standardize inputs (zero mean and normalize) as well as adding two parameters (beta, how much to offset the parameters for each layer and epsilon to avoid division by zero) before they go into the next layer.
 
+## Hyperparameter Tuning
+- Run a bunch of experiments with different **model settings** and see which works best.
 
-
+      Epoch - One Epoch is when an ENTIRE dataset is passed forward and backward through the neural network only ONCE.
+      Batch Size - Total number of training examples present in a single batch.
+      Iterations...
+      Number of Trees...
+      
+      Many More... Hyperparameter Tuning depends on the algorithm you are using.
+      
+**Search for "[algorithm_name] hyperparameter tuning"**
 
 
 [<img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">](https://github.com/pauloreis-ds)
