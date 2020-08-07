@@ -21,27 +21,20 @@
         Create one based on your specific (domain knowledge) problem.
 
 ## Feature Importance
+- Which feature contributed most to the model? Should some be removed?
 
 ## Training/Inference Time/Cost
+- How long does a model take to train? Is this feasible?
+- How long does inference take? Is it suitable for production?
+
+## Least Confident Examples
+- What does the model get wrong? (usually instances you don't have many examples of)
+
+## Bias/Variance Trade-off
+- High bias results in underfitting and lack of generalization to new samples.
+- High Variance results in ovefitting due to the model finding patterns which is actually random noise.
 
 
-
-
-
-# TEST
-<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
-
-<span style="color:red">some *blue* text</span>.
-
-<font color='green'>test blue color font</font>
-
-<p float="left">
-  <img src="images/CCconfusion_matrix2.png" width="500" />
-  <img src="images/DDconfusion_matrix2.png" width="500" /> 
-</p>
-<p align="center">
-  <img src="images/EELast.png" width="1100" />
-</p>
 
 
 
