@@ -58,7 +58,7 @@ Can be used for classification or regression. It asks the question, can a series
 
 Can be used for classification or regression. Takes a series of inputs, manipulates the inputs with linear (dot product between weights and inputs) and nonlinear functions (activation function). Do this a multiple of times (at least once for each neuron in a model). The importance of linear and non-linear functions (straight and non-straight lines) means neural networks can use this combination to estimate almost anything.
 
-> There are a great variety of algorithms to learn, so instead of trying to learn all of them at once, pick some, work with them, test them, learn them and then choose another set. As you'll understand more and more how they work, and with experience from tests and projects you'll eventually know how to deal with problems.
+> There are a great variety of algorithms to learn, so instead of trying to learn all of them at once, pick some, work with them, test them, learn them and then choose another set. As you understand more and more how they work, and with experience from projects you'll eventually know how to deal with problems.
 
 
 <p align="center">
