@@ -34,6 +34,7 @@
 - High bias results in underfitting and lack of generalization to new samples.
 - High Variance results in ovefitting due to the model finding patterns which is actually random noise.
 
+[WTF is the Bias-Variance Tradeoff? (Infographic)](https://elitedatascience.com/bias-variance-tradeoff)
 
 
 
