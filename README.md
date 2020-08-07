@@ -1,6 +1,8 @@
 # Machine-Learning-ROADMAP
 ML: What to start with?
 
+My favorite link of all(until now): [How Do We Actually machine.learning(learn=True) Things?](https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/3%20-%20Data%20Analysis%20(Machine%20Learning)/How%20to%20code%20and%20create%20any%20machine%20learning%20model.ipynb)
+
 **_Understand The Basis. \[Press Start\]_**
 
 - [Types of learning](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/tree/master/0%20-%20Types%20of%20learning)
