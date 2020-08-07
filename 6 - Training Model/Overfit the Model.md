@@ -1,5 +1,5 @@
 # Overfitting
-#### _"Stay hungry stay foolish"_
+#### _"Keep calm and Keep going"_
 
 - Overfitting happens when your validation loss (how your model is performing on the validation dataset, lower is better) starts to increase.
 Or if you don't have a validation set, it happens when the model performs far better on the training set than on the test set (99% accuracy on training set, 67% on the test set).
