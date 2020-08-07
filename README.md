@@ -32,7 +32,9 @@ My favorite link of all (until now): [How Do We Actually machine.learning(learn=
       - Data Preprocessing
       - Data Splitting
   - [Training Model](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/tree/master/6%20-%20Training%20Model)
-  
+      - Choose an Algorithm.
+      - Overfit the Model.
+      - Reduce overfitting with regularization.
   - [Analysis/Evaluation]()
   
   - [Deploying Model]()
