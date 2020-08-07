@@ -12,7 +12,7 @@
             1 - Choose an Algorithm  \(* - *)/
             2 - Test it (How good it is?)  ('-' )
             3 - Make it better (Hyperparameter Tuning)  .-.
-            4 - If needed, Do the same with another model(s) that suits the problem \o\|o|/o/
+            4 - If needed, Do the same with another model(s) that also suits the problem \o\|o|/o/
 
 
 
