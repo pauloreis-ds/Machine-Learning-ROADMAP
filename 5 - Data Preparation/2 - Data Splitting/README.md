@@ -21,9 +21,9 @@
     dev set or validation set), and wouldn't have access to the test data during development, you'd still be able
     to tell the "real" performance after you're done.
     
- A good explanation about [data splitting](https://towardsdatascience.com/data-splitting-technique-to-fit-any-machine-learning-model-c0d7f3f1c790).
+[Data splitting technique](https://towardsdatascience.com/data-splitting-technique-to-fit-any-machine-learning-model-c0d7f3f1c790). 
  
- My simpler and more codeable explanation of data splitting and [machine learning](https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/tree/master/3%20-%20Data%20Analysis%20(Machine%20Learning)).
+A good explanation about. Sorry, Did I say "a good" explanation? A Great explanation about data splitting. A Great explanation? An Awesome explanation about [data splitting](https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/tree/master/3%20-%20Data%20Analysis%20(Machine%20Learning))!
     
    
 
