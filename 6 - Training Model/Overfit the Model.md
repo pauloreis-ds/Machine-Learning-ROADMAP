@@ -29,7 +29,7 @@ Or if you don't have a validation set, it happens when the model performs far be
 
 
 ## Regularization: a collection of techniques to prevent/reduce overfitting.
-> Right now, in the beginning, You really don't need to worry about these complicated names and formulas, just have in mind that they exist, and as you face more and more ML problems during your projects you can start searching and focusing on deeply learning this topic.
+> Right now, in the beginning, You really don't need to worry about these complicated names and formulas, just keep in mind that they exist, and as you face more and more ML problems during your projects you can start searching and focusing on deeply learning this topic.
 
 ### L1 (lasso) and L2 (ridge) regularization
 L1 regularization sets uneeded features coefficients to 0 (performs feature selection on which features are most essential and which aren't, useful for model explainability). L2 contrains model features (won't set them to 0).
