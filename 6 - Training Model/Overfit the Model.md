@@ -6,17 +6,17 @@ Or if you don't have a validation set, it happens when the model performs far be
 
 
 <p align="center">
-  <img src="images/3overfit.png" width="700" />
+  <img src="image/3overfit.png" width="700" />
 </p>
 
 
 <p align="center">
-  <img src="images/4overfit.png" width="700" />
+  <img src="image/4overfit.png" width="700" />
 </p>
 
 
 <p align="center">
-  <img src="images/5overfit.jpg" width="700" />
+  <img src="image/5overfit.jpg" width="700" />
 </p>
 
 
