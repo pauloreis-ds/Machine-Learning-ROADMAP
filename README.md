@@ -31,7 +31,7 @@ My favorite link of all (until now): [How Do We Actually machine.learning(learn=
       - Exploratory Data Analysis (EDA)
       - Data Preprocessing
       - Data Splitting
-  - [Training Model]()
+  - [Training Model](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/tree/master/6%20-%20Training%20Model)
   
   - [Analysis/Evaluation]()
   
