@@ -42,7 +42,7 @@ My favorite link of all (until now): [How Do We Actually machine.learning(learn=
   - [Retrain Model]()
   
 
-
+[Checklist for Data Science Projects](https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Checklist%20for%20Data%20Science%20Projects.ipynb)
 
 Types of problems:
 1. Helping users find the right thing when they search? This is a ranking problem. Google, Bing, and Twitter search are all doing this — trying to sort things when you query so that the thing you’re looking for is at the top.
