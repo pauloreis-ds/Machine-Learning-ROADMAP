@@ -6,10 +6,9 @@
 - [Choose an Algorithm](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/blob/master/6%20-%20Training%20Model/Choosing%20an%20algorithm.md).
 - [Overfit the Model](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/blob/master/6%20-%20Training%20Model/Overfit%20the%20Model.md).
     - Reduce overfitting with regularization.
-    - Hyperparameter Tuning.
-
+    - Hyperparameter Tuning.     
         
-        To sum up: 
+          To sum up: 
             1 - Choose an Algorithm  \(* - *)/
             2 - Test it (How good it is?)  ('-' )
             3 - Make it better (Hyperparameter Tuning)  .-.
