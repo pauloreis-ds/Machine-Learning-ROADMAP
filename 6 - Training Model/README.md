@@ -8,6 +8,8 @@
     - Reduce overfitting with regularization.
     - Hyperparameter Tuning.     
         
+        
+        
           To sum up: 
             1 - Choose an Algorithm  \(* - *)/
             2 - Test it (How good it is?)  ('-' )
