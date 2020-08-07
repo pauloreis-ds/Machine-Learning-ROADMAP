@@ -17,6 +17,9 @@
             4 - If needed, Do the same with another model(s) that also suits the problem \o\|o|/o/
 
 
+<p align="center">
+  <img src="image/7training model.png" width="800" />
+</p>
 
 
 [<img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">](https://github.com/pauloreis-ds)
