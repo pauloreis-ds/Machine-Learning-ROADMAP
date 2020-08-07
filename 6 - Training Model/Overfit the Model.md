@@ -19,13 +19,11 @@ Or if you don't have a validation set, it happens when the model performs far be
   <img src="image/5overfit.jpg" width="700" />
 </p>
 
-<p align="center">
-  <img src="image/4overfit.png" width="700" />
-</p>
 
 <p align="center">
   <img src="image/6overfit.jpg" width="700" />
 </p>
+
 
 > Underfitting happens when your model doesn't perform as well as you'd like on your data. Try training for longer or a more advanced/suitable model.
 
