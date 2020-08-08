@@ -1,7 +1,7 @@
 # Analysis/Evaluation
 #### _"Continous Improvement is Better than delayed perfection"_
 
-## Evaluation Metrics
+## [Evaluation Metrics](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/blob/master/7%20-%20Analysis~Evaluation/Metrics.md)
 **You need to master these, so there's no way you would let a bad model be deployed and make the company lose a lot of money because of it.**
 
     Classification:
