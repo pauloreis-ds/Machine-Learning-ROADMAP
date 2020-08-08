@@ -13,8 +13,8 @@ It is extremely useful for measuring Recall, Precision, Specificity, Accuracy an
 </p>
 
 
-    - There are two possible predicted classes: "yes" and "no". If we were predicting the presence of a disease, for example, "yes" 
-      would mean they have the disease, and "no" would mean they don't have the disease.
+    - There are two possible predicted classes: "yes" and "no". If we were predicting the presence of a disease, for example, 
+      "yes" would mean they have the disease, and "no" would mean they don't have the disease.
     - The classifier made a total of 165 predictions (165 patients were being tested for the presence of that disease).
     - Out of those 165 cases, the classifier predicted "yes" 110 times, and "no" 55 times.
     - In reality, 105 patients in the sample have the disease, and 60 patients do not.
