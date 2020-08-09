@@ -35,7 +35,7 @@ My favorite link of all (until now): [How Do We Actually machine.learning(learn=
       - Choose an Algorithm.
       - Overfit the Model.
       - Reduce overfitting with regularization.
-  - [Analysis/Evaluation]()
+  - [Analysis/Evaluation](https://github.com/pauloreis-ds/Machine-Learning-ROADMAP/tree/master/7%20-%20Analysis~Evaluation)
   
   - [Deploying Model]()
   
