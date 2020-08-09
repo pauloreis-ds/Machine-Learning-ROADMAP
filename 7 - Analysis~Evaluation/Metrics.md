@@ -51,7 +51,7 @@ It is extremely useful for measuring Recall, Precision, Specificity, Accuracy an
       also known as "Sensitivity"<br>
 
 
-F1 Score is the Harmonic Mean between precision and recall. Harmonic Mean is typically appropriate for situations when the average of rates is desired.
+What if we are trying to get the best precision and recall at the same time? F1 Score is the Harmonic Mean between precision and recall. Harmonic Mean is typically appropriate for situations when the average of rates is desired.
 
 [Trading Off Precision and Recall (F1 Score) -](https://www.coursera.org/lecture/machine-learning/trading-off-precision-and-recall-CuONQ) Important! Watch. Think about it. Try to create an example (go back to the confusion matrix image and change numbers, what would be the precision and recall if you had 50TP instead of 100)<br>
 
