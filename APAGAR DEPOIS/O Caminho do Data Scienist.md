@@ -2,10 +2,13 @@
 class Data_Scientist:
   def __init__(self, learnings):
     self.development(learnings)
-   be.inspired()
+  
+  be.inspired()
+  find.insights()
+  do.better()
 ```
 
-# O Caminho do Data Scienist
+# O Caminho do Data Scientist
 
     A Ação é o seu maior poder.
     
