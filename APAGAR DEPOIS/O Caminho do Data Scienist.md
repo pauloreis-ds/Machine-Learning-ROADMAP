@@ -1,3 +1,9 @@
+```ruby
+def hello
+    puts "Hello world!"
+end
+```
+
 # O Caminho do Data Scienist
 
     A Ação é o seu maior poder.
