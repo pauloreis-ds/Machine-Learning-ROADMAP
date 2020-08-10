@@ -21,7 +21,7 @@
 * Estatística e Matemática (aprenda aos poucos, quando for se tornando necessário, mas aprenda)
 * SQL (lidar com banco de dados)
 
-> As ferramentas mudam, e há várias outras que solucionam o mesmo problema, mantenha-se desapegado a elas. Se 1+1 resolve o problema, faça 1+1, não há motivo para aplicar machine learning. "Se você pode resolver um problema sem machine learning, resolva-o" [1ª regra de ML do Google](https://developers.google.com/machine-learning/guides/rules-of-ml).
+> As ferramentas mudam, e há várias outras que solucionam o mesmo problema, domine-as, mas mantenha-se desapegado a elas. Se 1+1 resolve o problema, faça 1+1, não há motivo para aplicar machine learning. "Se você pode resolver um problema sem machine learning, resolva-o" [1ª regra de ML do Google](https://developers.google.com/machine-learning/guides/rules-of-ml).
 
 
 [<img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/PauloReis0.png">](https://github.com/pauloreis-ds)
