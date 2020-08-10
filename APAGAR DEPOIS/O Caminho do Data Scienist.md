@@ -1,8 +1,3 @@
-    def hello
-       print("Hello world!")
-    end
-{: .language-python}
-
 # O Caminho do Data Scienist
 
     A Ação é o seu maior poder.
