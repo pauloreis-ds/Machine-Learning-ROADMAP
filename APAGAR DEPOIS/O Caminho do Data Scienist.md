@@ -1,8 +1,8 @@
 ```python
-class Person:
-  def __init__(self, name, age):
-    self.name = name
-    self.age = age
+class Data_Scientist:
+  def __init__(self, learnings):
+    self.development(learnings)
+   be.inspired()
 ```
 
 # O Caminho do Data Scienist
