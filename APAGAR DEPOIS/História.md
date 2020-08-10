@@ -8,7 +8,7 @@ Tendo isso em mente, criei um super hype mega plano que me ajudaria a dominar to
 
 
 Até consegui as opiniões do Data Professor e do Meigarom do canal Seja um Data Scientist sobre o plano de estudos que criei.<br>
-(Thank You! Foi Encorajador ~(*- * ~) ~(* - *)~ (~* -*)~ )
+(Thank You! Foi Encorajador \~(\*-\* \~) \~(\*-\*)\~ (\~\*-\*)\~ )
 
 
 <p float="left">
@@ -44,6 +44,7 @@ Como você pode ver, passei aproximadamente os primeiros 15 dias de junho apenas
 
 No fim, ou melhor, no meio, de tanto pesquisar e aprender chega um ponto em que você sabe que só precisa continuar, porque no fim esse é o caminho.
 > Se atalho fosse bom, ele seria o caminho.
+
 Enfim, seja apaixonado, caso não seja, faça-se apaixonar, se não consegue fazer isso... bom, então esse meme não será tão engraçado quanto poderia ser kkkkkk 
 
 
