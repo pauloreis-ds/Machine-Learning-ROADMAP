@@ -1,7 +1,8 @@
-```ruby
-def hello
-    puts "Hello world!"
-end
+```python
+class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
 ```
 
 # O Caminho do Data Scienist
