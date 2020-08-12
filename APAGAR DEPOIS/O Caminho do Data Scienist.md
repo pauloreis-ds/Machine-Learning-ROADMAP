@@ -8,6 +8,8 @@ class Data_Scientist:
   do.better()
 ```
 
+> Esse Roadmap pode parecer simplista, mas acredite, vai te ocupar por bastante tempo. Além disso, no decorrer de seu aprendizado, haverá um momento em que você conseguirá seguir em frente por si mesmo tomando as próprias decisões, dando o próximo passo.
+
 # O Caminho do Data Scientist
 
     A Ação é o seu maior poder.
