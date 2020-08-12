@@ -19,8 +19,12 @@ class Data_Scientist:
         -> Aprenda cíclicamente. Ao invés de estudar todo o assunto A, então todo o conteúdo B e depois ir para C. 
            Aprenda o suficiente de A para utilizar junto com o aprendizado e prática de B. Aprenda um pouco mais de
            A e B e já utilize esses conhecimentos ao raciocinar em C.
-                    
            
+           ps: uma forma de avançar/adiantar conteúdos é simplesmente assistindo à vídeos, aulas, palestras sobre
+           os assuntos, não precisa "aprender", decorar, tatuar na mente. Apenas veja para ter ideia do que está 
+           por vir, e quando vir, você conseguirá compreender mais facilmente do que se visse pela primeira vez.
+
+         
 * Google Colab ou Jupyter Notebook para os códigos 
 * Python (bibliotecas para Data Science)
   * Pandas (aprender a manipular os dados)
