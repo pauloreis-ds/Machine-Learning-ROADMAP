@@ -5,7 +5,7 @@ class Data_Scientist:
   
   be.inspired()
   find.insights()
-  do.better()
+  do.better(and,more)
 ```
 
 > Esse Roadmap pode parecer simplista, mas acredite, vai te ocupar por bastante tempo. Além disso, no decorrer de seu aprendizado, haverá um momento em que você conseguirá seguir em frente por si mesmo tomando as próprias decisões, dando o próximo passo.
